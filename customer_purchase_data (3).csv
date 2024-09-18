@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,CustomerName,ProductID,ProductName,ProductCategory,PurchaseQuantity,PurchasePrice,PurchaseDate,Country
+1,512,Mark Cox,274,Refrigerator,Home Appliances,3,261.69,2024-01-26,San Marino
+2,856,Barbara Adkins,288,Air Conditioner,Home Appliances,4,758.56,2024-06-10,Albania
+3,494,Kenneth Gregory,266,Blender,Home Appliances,4,880.79,2024-01-11,Barbados
+4,788,Robert Holmes,293,Heater,Home Appliances,2,153.36,2024-03-25,Cameroon
+5,954,William Melendez,253,Smart Bulb,Electronics,3,413.89,2024-02-08,British Virgin Islands
+6,746,Cory Hall,250,Laptop,Electronics,3,715.93,2023-08-16,Belarus
+7,695,Patricia Young,299,Refrigerator,Home Appliances,2,106.11,2024-02-28,Israel
+8,433,Kelly Valdez,251,Coffee Maker,Home Appliances,2,385.55,2024-02-25,Latvia
+9,976,Tara Castro,227,Television,Electronics,3,156.25,2023-12-03,Angola
+10,582,Dr. Joyce Davis,299,Tablet,Electronics,1,415.15,2024-05-04,Saint Helena
+11,231,Jasmine Edwards,213,Air Conditioner,Home Appliances,2,920.06,2024-01-04,Nicaragua
+12,379,Julia Huff,284,Smart Bulb,Electronics,4,281.39,2023-10-03,Aruba
+13,871,Kendra Ramirez,275,Camera,Electronics,2,904.95,2023-10-23,Libyan Arab Jamahiriya
+14,307,Michael Jacobs,289,Smartphone,Electronics,1,207.92,2024-02-06,Lesotho
+15,806,David Rangel,264,Coffee Maker,Home Appliances,3,229.8,2024-01-22,Belarus
+16,249,Karen Johnson,241,Television,Electronics,3,114.66,2023-10-04,Guyana
+17,162,Jillian Wade,217,Television,Electronics,3,602.41,2023-08-23,Qatar
+18,117,Paul Simmons,276,Camera,Electronics,2,430.79,2024-02-02,Malawi
+19,700,Diane Morrison,247,Vacuum Cleaner,Home Appliances,3,898.64,2024-02-19,Denmark
+20,434,Chelsea Williams,267,Refrigerator,Home Appliances,1,722.3,2024-04-08,Saint Kitts and Nevis
+21,125,Jessica Moss,206,Microwave,Home Appliances,4,530.47,2024-04-25,Luxembourg
+22,980,Rebecca Greene,206,Washing Machine,Home Appliances,1,411.83,2023-11-20,Syrian Arab Republic
+23,970,Joseph Bennett,288,Refrigerator,Home Appliances,3,93.5,2023-12-20,Turks and Caicos Islands
+24,651,Joseph Evans,226,Smartwatch,Electronics,5,771.49,2024-04-28,Iraq
+25,416,Tina Gillespie,265,Heater,Home Appliances,1,896.8,2024-03-03,Bulgaria
+26,763,Teresa Duran,223,Television,Electronics,2,510.48,2023-12-01,Northern Mariana Islands
+27,454,Beverly Johnson,238,Tablet,Electronics,4,916.71,2024-03-18,Myanmar
+28,387,William Delacruz,224,Air Conditioner,Home Appliances,3,819.3,2024-02-14,Thailand
+29,866,Cassandra Watson,224,Refrigerator,Home Appliances,5,187.52,2024-05-05,Peru
+30,102,Brian Pena,246,Heater,Home Appliances,5,354.37,2024-03-01,Maldives
+31,886,Angela Shelton,280,Heater,Home Appliances,3,538.93,2024-01-01,Comoros
+32,612,Ariel Wilson,240,Headphones,Electronics,1,846.19,2024-06-07,Rwanda
+33,761,Justin Fox,259,Smartwatch,Electronics,4,972.31,2023-09-18,Oman
+34,874,Gary Gaines,236,Television,Electronics,4,969.25,2023-11-13,Malaysia
+35,333,Robert Wagner,283,Printer,Electronics,1,884.76,2024-01-13,Mongolia
+36,574,Juan Butler,214,Refrigerator,Home Appliances,5,832.04,2023-06-29,Brazil
+37,445,Rebecca Salazar,231,Electric Kettle,Home Appliances,2,880.46,2024-06-09,Senegal
+38,607,Robert Tanner,251,Smartphone,Electronics,2,763.8,2024-01-01,United States Minor Outlying Islands
+39,856,Brianna Knight,205,Smartphone,Electronics,1,564.98,2024-04-24,France
+40,132,Dr. Matthew Beard,242,Microwave,Home Appliances,2,201.11,2024-04-16,Hong Kong
+41,105,Christopher Taylor,271,Router,Electronics,2,818.94,2023-12-23,Sweden
+42,447,Arthur Cook,218,Coffee Maker,Home Appliances,4,414.43,2023-12-14,New Zealand
+43,990,Michael Wilkins,211,Printer,Electronics,5,804.93,2024-01-11,Czech Republic
+44,229,Linda Wright,292,Electric Kettle,Home Appliances,4,752.88,2024-06-09,Madagascar
+45,910,Robert Martinez,214,Toaster,Home Appliances,3,740.65,2023-08-29,French Guiana
+46,466,Gina Gilbert,286,Smartwatch,Electronics,3,143.24,2023-10-04,Switzerland
+47,357,Keith Lynch,201,Smartphone,Electronics,4,480.11,2024-06-22,South Georgia and the South Sandwich Islands
+48,706,Jeremy Gray,212,Smartphone,Electronics,5,423.97,2024-02-09,Argentina
+49,615,Stephanie Gomez,236,Washing Machine,Home Appliances,4,316.87,2023-09-08,Syrian Arab Republic
+50,309,Robert Higgins,225,Blender,Home Appliances,3,435.75,2024-06-16,Slovakia (Slovak Republic)
+51,424,Mrs. Lindsay Taylor,241,Router,Electronics,2,178.9,2023-07-01,Falkland Islands (Malvinas)
+52,839,Patrick Simmons,296,Microwave,Home Appliances,5,555.64,2023-11-18,Montenegro
+53,402,Melinda Ortiz,206,Headphones,Electronics,1,32.42,2024-06-14,Cuba
+54,536,Rachel Morgan,243,Television,Electronics,2,704.18,2023-07-08,Czech Republic
+55,583,Molly Harper,292,Refrigerator,Home Appliances,2,22.59,2024-02-17,Iran
+56,560,Nathaniel Benton,295,Electric Kettle,Home Appliances,4,450.52,2023-10-28,Gambia
+57,863,Amy Guzman,243,Router,Electronics,5,468.96,2023-09-26,Iran
+58,769,Monique Smith,293,Microwave,Home Appliances,4,340.44,2024-01-14,Morocco
+59,418,Colton Bell,279,Smart Bulb,Electronics,3,852.55,2024-04-18,Ireland
+60,772,Austin Bishop,295,Smart Bulb,Electronics,4,901.06,2024-02-04,Turkmenistan
+61,114,David Harris,292,Headphones,Electronics,1,959.08,2023-08-06,Estonia
+62,207,David Martinez,218,Television,Electronics,2,449.19,2023-12-21,Hong Kong
+63,688,Dr. Tonya Long DDS,257,Coffee Maker,Home Appliances,4,313.14,2023-10-16,Sudan
+64,124,Monique Douglas,246,Toaster,Home Appliances,4,488.52,2023-12-17,Equatorial Guinea
+65,779,Alan Evans DVM,260,Printer,Electronics,3,527.23,2024-01-27,Jersey
+66,213,Lisa Jackson,274,Headphones,Electronics,1,460.89,2023-12-24,Montenegro
+67,558,Brandy Arias,288,Electric Kettle,Home Appliances,2,531.03,2024-02-09,Norfolk Island
+68,668,Timothy Schmidt,200,Vacuum Cleaner,Home Appliances,1,166.8,2023-09-27,Mayotte
+69,459,Dr. Dennis Williams,278,Refrigerator,Home Appliances,4,982.82,2024-02-20,Antarctica (the territory South of 60 deg S)
+70,936,Kimberly English,243,Smartwatch,Electronics,2,537.09,2024-02-23,Uruguay
+71,930,Linda Spencer,205,Blender,Home Appliances,5,763.7,2024-05-09,Montenegro
+72,530,Erica Whitaker,280,Heater,Home Appliances,1,773.14,2023-09-04,Austria
+73,319,Andrea Douglas,231,Toaster,Home Appliances,3,523.48,2024-02-14,Zambia
+74,720,Donald Webb,219,Coffee Maker,Home Appliances,1,902.93,2024-03-10,Cameroon
+75,624,Caitlyn Mendez,272,Blender,Home Appliances,2,72.01,2024-03-23,Czech Republic
+76,264,Tiffany Hernandez,224,Heater,Home Appliances,3,921.9,2024-03-07,Lebanon
+77,744,William Underwood,254,Television,Electronics,5,39.83,2024-04-03,Uganda
+78,952,James Reed,284,Electric Kettle,Home Appliances,5,529.71,2023-07-27,Cyprus
+79,897,Katie Robbins,247,Smartwatch,Electronics,4,770.37,2024-02-02,Swaziland
+80,593,Kimberly Mahoney,259,Television,Electronics,4,593.15,2023-07-08,Senegal
+81,877,Timothy Parker,216,Coffee Maker,Home Appliances,3,453.45,2023-09-13,Ecuador
+82,997,Drew Sanders,293,Router,Electronics,3,486.12,2024-01-04,Montenegro
+83,773,Elizabeth Hernandez,259,Coffee Maker,Home Appliances,2,544.92,2023-09-01,Myanmar
+84,339,Brandon Wiley,222,Electric Kettle,Home Appliances,1,561.8,2024-01-02,Montserrat
+85,403,Sarah Porter,214,Coffee Maker,Home Appliances,1,265.7,2024-02-26,Rwanda
+86,269,Frank Ramirez,258,Smartphone,Electronics,4,412.3,2023-09-12,Gabon
+87,970,Jason Stevens,296,Smart Bulb,Electronics,3,444.67,2023-09-28,Central African Republic
+88,645,Jesse Ellis,249,Headphones,Electronics,5,257.75,2024-06-23,Venezuela
+89,516,Jimmy Ramirez,243,Heater,Home Appliances,5,41.6,2023-08-09,Turks and Caicos Islands
+90,796,Roger Hampton,200,Smartphone,Electronics,4,318.92,2023-08-25,Cayman Islands
+91,245,Daniel Spencer,287,Heater,Home Appliances,5,867.11,2023-10-21,Bosnia and Herzegovina
+92,282,Joseph Hawkins,281,Tablet,Electronics,3,302.83,2024-03-02,Namibia
+93,636,Mikayla Foster,224,Smart Bulb,Electronics,4,392.84,2024-02-15,Germany
+94,614,Diane Howard,264,Refrigerator,Home Appliances,1,359.41,2023-11-19,Monaco
+95,467,Joshua Morales,250,Refrigerator,Home Appliances,4,877.99,2023-07-23,Bangladesh
+96,887,Paul Acosta,275,Coffee Maker,Home Appliances,3,222.39,2024-02-27,Cayman Islands
+97,495,Tonya Peterson,268,Heater,Home Appliances,3,626.38,2024-03-21,Reunion
+98,905,Troy Butler,220,Headphones,Electronics,4,832.36,2023-07-23,United States of America
+99,575,Anthony Mitchell,234,Headphones,Electronics,4,173.23,2024-05-18,Northern Mariana Islands
+100,285,Daniel Khan,275,Toaster,Home Appliances,3,356.1,2023-07-22,Montserrat
+101,240,Elizabeth Mayer,218,Air Conditioner,Home Appliances,2,820.66,2024-04-28,Falkland Islands (Malvinas)
+102,454,Erin Hopkins,210,Toaster,Home Appliances,3,537.21,2024-02-27,Hungary
+103,232,Sandra Edwards,201,Washing Machine,Home Appliances,3,195.45,2023-11-01,Cocos (Keeling) Islands
+104,500,Mr. Craig Williams DDS,246,Refrigerator,Home Appliances,4,438.59,2023-07-27,Ireland
+105,480,Kathryn Gentry,273,Refrigerator,Home Appliances,1,916.17,2024-06-08,Croatia
+106,503,Christopher Cook,218,Smartwatch,Electronics,4,995.28,2024-05-21,Maldives
+107,992,Joe Wells,268,Smartwatch,Electronics,5,597.77,2023-07-23,Netherlands
+108,108,Kelly Werner,203,Printer,Electronics,5,335.77,2023-12-22,Gibraltar
+109,705,Denise Jones,229,Smartwatch,Electronics,3,756.31,2024-01-31,Canada
+110,411,Nicole Kelley,255,Blender,Home Appliances,5,623.19,2024-02-12,Croatia
+111,911,Brenda Cowan,272,Router,Electronics,1,427.84,2024-06-07,Norfolk Island
+112,800,Scott Williams,294,Tablet,Electronics,4,229.86,2023-07-05,Maldives
+113,637,Alicia Frye DVM,298,Electric Kettle,Home Appliances,5,906.62,2024-06-02,Congo
+114,389,Garrett Watson,267,Refrigerator,Home Appliances,3,26.72,2023-09-29,Cayman Islands
+115,385,Claudia Murphy,213,Camera,Electronics,2,632.38,2023-07-14,Taiwan
+116,579,Mr. Daniel Thompson MD,251,Printer,Electronics,1,281.9,2024-01-29,Saint Pierre and Miquelon
+117,182,James Manning,224,Television,Electronics,3,618.58,2023-07-14,Peru
+118,854,Louis Frey,228,Television,Electronics,3,804.84,2023-08-15,Afghanistan
+119,460,Damon Campbell,224,Blender,Home Appliances,3,483.95,2023-12-01,Svalbard & Jan Mayen Islands
+120,185,Jeffrey Snyder,233,Blender,Home Appliances,1,103.07,2024-05-29,Philippines
+121,264,Steven Sanchez,272,Tablet,Electronics,2,345.84,2024-01-01,Kenya
+122,673,Brian Walker,219,Printer,Electronics,2,922.01,2023-10-23,Venezuela
+123,438,Melissa Johnson,258,Laptop,Electronics,3,192.72,2023-10-10,Chad
+124,659,Gina Fritz,275,Coffee Maker,Home Appliances,2,399.68,2024-01-24,American Samoa
+125,207,Steven Harvey,291,Blender,Home Appliances,4,353.99,2024-03-28,Mexico
+126,449,Susan Wilson,285,Vacuum Cleaner,Home Appliances,1,174.05,2023-07-10,Luxembourg
+127,622,Lisa Cain,296,Smartphone,Electronics,1,459.27,2024-04-20,Peru
+128,718,Robert Smith,230,Refrigerator,Home Appliances,1,318.1,2023-11-10,Cambodia
+129,839,Morgan Noble,237,Electric Kettle,Home Appliances,4,675.11,2024-03-31,Gibraltar
+130,534,Christopher Fisher,295,Heater,Home Appliances,1,152.2,2024-06-23,Costa Rica
+131,906,Barbara Estrada,233,Blender,Home Appliances,3,264.85,2024-01-15,Spain
+132,194,Sean Perry,265,Router,Electronics,5,934.94,2024-06-10,Saint Lucia
+133,623,James Jones,274,Washing Machine,Home Appliances,2,813.43,2024-03-02,Hungary
+134,358,Jasmine Conley,209,Tablet,Electronics,5,80.19,2023-07-31,Antigua and Barbuda
+135,519,David Flowers,291,Headphones,Electronics,5,541.41,2023-08-24,Vietnam
+136,873,Mrs. Heather Briggs,223,Smartphone,Electronics,4,717.77,2024-02-29,Turks and Caicos Islands
+137,491,Linda Powell,225,Smart Bulb,Electronics,2,196.81,2023-10-09,Jordan
+138,530,Tiffany Harrison,263,Tablet,Electronics,1,757.12,2023-07-07,Uzbekistan
+139,449,Janice Peters MD,284,Router,Electronics,3,827.21,2023-12-04,Mexico
+140,950,Jason Mcknight,207,Washing Machine,Home Appliances,5,177.73,2024-04-12,Belarus
+141,792,Jordan Vega,237,Camera,Electronics,2,704.52,2024-02-03,Ireland
+142,418,Robert Foster,216,Vacuum Cleaner,Home Appliances,5,32.31,2024-02-01,Yemen
+143,859,Katherine Scott,269,Printer,Electronics,3,864.85,2023-12-09,El Salvador
+144,952,Gabriel Washington,230,Camera,Electronics,5,806.28,2024-01-15,Bahrain
+145,243,Patricia Stark,217,Smart Bulb,Electronics,5,342.76,2023-10-13,Dominican Republic
+146,345,Sandra Rivera,225,Laptop,Electronics,2,296.04,2024-03-18,Tajikistan
+147,364,Sherri Wood,240,Camera,Electronics,4,343.56,2024-04-02,Zambia
+148,772,Joshua Davis,274,Heater,Home Appliances,1,256.24,2023-11-08,Reunion
+149,499,Brett Sanders,236,Smart Bulb,Electronics,5,344.12,2023-12-30,Falkland Islands (Malvinas)
+150,270,Taylor Blackburn,263,Tablet,Electronics,5,54.62,2023-06-26,Senegal
+151,168,Caitlin Davis,202,Vacuum Cleaner,Home Appliances,2,616.01,2023-07-23,Bolivia
+152,892,David Stewart,244,Laptop,Electronics,3,452.05,2023-07-02,Australia
+153,338,Kenneth Smith,271,Washing Machine,Home Appliances,1,861.69,2024-04-03,Macao
+154,977,Lisa Conrad,204,Air Conditioner,Home Appliances,4,957.95,2023-12-04,Sri Lanka
+155,612,Stephen Hammond,293,Refrigerator,Home Appliances,3,535.29,2024-01-29,Lebanon
+156,777,William Hill,220,Air Conditioner,Home Appliances,4,343.87,2023-08-01,Mayotte
+157,497,Judy Mckee,204,Air Conditioner,Home Appliances,1,285.98,2023-10-03,Bermuda
+158,235,Elizabeth Jordan,248,Toaster,Home Appliances,2,669.2,2023-12-22,Bermuda
+159,360,Jesus Curry,298,Smart Bulb,Electronics,5,506.23,2024-06-07,Netherlands Antilles
+160,416,Tamara Wright,292,Microwave,Home Appliances,3,531.76,2023-12-25,Congo
+161,417,Sharon Lester,201,Router,Electronics,5,538.48,2023-12-05,Solomon Islands
+162,446,David Villarreal,250,Smartwatch,Electronics,3,140.65,2023-10-02,Rwanda
+163,714,Olivia Williams,212,Smart Bulb,Electronics,2,562.83,2024-01-07,Gibraltar
+164,229,Mindy Morris,255,Coffee Maker,Home Appliances,3,960.26,2023-08-10,Mozambique
+165,586,Randy Khan,282,Microwave,Home Appliances,3,428.68,2023-11-10,Swaziland
+166,817,Olivia Burns,250,Air Conditioner,Home Appliances,2,815.37,2023-10-23,Morocco
+167,244,Lindsay Carter,268,Television,Electronics,5,802.38,2023-11-26,Saudi Arabia
+168,844,Diana Martinez,202,Washing Machine,Home Appliances,2,693.97,2023-12-27,Sudan
+169,944,Bryan Willis,292,Headphones,Electronics,5,525.33,2023-11-07,Congo
+170,757,Nancy Turner,223,Smart Bulb,Electronics,5,477.5,2023-12-29,Denmark
+171,659,Michelle Woods,294,Laptop,Electronics,1,269.05,2024-02-01,Palestinian Territory
+172,969,Lisa Chang,264,Washing Machine,Home Appliances,3,955.14,2024-03-15,Malawi
+173,958,Theresa Spencer,244,Tablet,Electronics,5,510.6,2024-03-04,Jordan
+174,409,Michael Johnson,239,Heater,Home Appliances,5,71.95,2024-04-16,Sierra Leone
+175,388,Christopher Burke,243,Refrigerator,Home Appliances,4,600.17,2024-03-04,Saint Martin
+176,378,Megan Floyd,271,Router,Electronics,2,753.57,2024-02-12,Christmas Island
+177,699,Jennifer Castillo,212,Laptop,Electronics,2,452.45,2023-07-10,Chile
+178,669,Samantha Jackson,235,Television,Electronics,3,985.28,2023-09-22,Niue
+179,421,Katrina Soto,204,Coffee Maker,Home Appliances,3,758.15,2023-06-26,Cape Verde
+180,359,James Williams,212,Television,Electronics,5,769.2,2024-05-29,Libyan Arab Jamahiriya
+181,800,Travis Roberts,219,Smartphone,Electronics,3,244.06,2023-10-02,Syrian Arab Republic
+182,563,Ronald Duncan,216,Tablet,Electronics,3,416.2,2024-05-09,Congo
+183,902,Mindy Hayes,238,Camera,Electronics,4,198.91,2023-11-15,Lebanon
+184,786,Courtney Hunter,203,Tablet,Electronics,4,118.83,2024-04-26,Finland
+185,291,Ronald Hunt,248,Vacuum Cleaner,Home Appliances,5,684.51,2023-06-27,Marshall Islands
+186,431,William Reyes,228,Toaster,Home Appliances,1,187.82,2024-01-13,Taiwan
+187,897,Laura Krause,274,Toaster,Home Appliances,3,762.06,2023-08-15,Swaziland
+188,175,Ryan Scott,208,Coffee Maker,Home Appliances,1,140.61,2023-10-24,Taiwan
+189,273,Alexandra Anderson,261,Refrigerator,Home Appliances,5,986.48,2024-06-22,Mexico
+190,907,Margaret Thomas,227,Vacuum Cleaner,Home Appliances,2,903.91,2024-02-09,Grenada
+191,428,Justin Tanner,200,Tablet,Electronics,3,811.34,2023-07-12,Netherlands
+192,875,Eric King,291,Coffee Maker,Home Appliances,3,797.69,2024-05-08,Poland
+193,435,Sydney Ali,260,Router,Electronics,4,322.17,2023-11-11,Bosnia and Herzegovina
+194,154,Mark Medina,259,Washing Machine,Home Appliances,5,805.04,2023-11-05,Uganda
+195,286,Alejandro Adams,261,Electric Kettle,Home Appliances,4,209.48,2023-11-26,Macedonia
+196,934,Thomas Mcgee,224,Vacuum Cleaner,Home Appliances,1,898.95,2023-10-09,Saudi Arabia
+197,978,Christopher Burke,282,Printer,Electronics,5,281.32,2023-12-16,Guinea
+198,652,Joseph Harrington,238,Microwave,Home Appliances,4,421.12,2023-10-01,Angola
+199,293,Christopher Fisher,267,Coffee Maker,Home Appliances,5,292.94,2023-08-27,Taiwan
+200,966,Kristen Ruiz,232,Toaster,Home Appliances,2,777.27,2023-10-23,Mongolia
+201,115,Julie Weiss,222,Router,Electronics,1,959.23,2023-08-01,Indonesia
+202,182,Bridget Guerrero,295,Air Conditioner,Home Appliances,4,549.56,2024-03-27,Australia
+203,187,Natalie Maxwell,221,Smart Bulb,Electronics,2,845.46,2023-10-02,Afghanistan
+204,125,Dylan Crawford,278,Electric Kettle,Home Appliances,4,817.26,2023-07-20,Hong Kong
+205,187,Julie Watkins,274,Refrigerator,Home Appliances,3,712.61,2023-09-01,Indonesia
+206,944,Randy Garcia,252,Blender,Home Appliances,1,355.96,2023-08-14,Saint Vincent and the Grenadines
+207,663,Heather Thompson,223,Television,Electronics,3,671.3,2024-02-16,Palestinian Territory
+208,529,Alyssa Holmes,253,Tablet,Electronics,2,872.55,2023-12-02,Lao People's Democratic Republic
+209,909,Carl Martin,270,Tablet,Electronics,3,184.88,2024-05-26,Lithuania
+210,338,Christopher Melendez,292,Heater,Home Appliances,2,597.03,2023-11-28,Trinidad and Tobago
+211,837,Jonathan Ward,267,Microwave,Home Appliances,1,454.91,2024-04-16,Burundi
+212,607,Andrew Mitchell,214,Router,Electronics,3,914.08,2023-12-29,Jersey
+213,967,Holly Smith,280,Headphones,Electronics,1,859.27,2023-09-04,Macedonia
+214,735,Maria Irwin,263,Blender,Home Appliances,2,602.36,2024-03-28,Uganda
+215,636,Natasha Stanton,235,Headphones,Electronics,1,78.61,2023-07-09,Lao People's Democratic Republic
+216,898,Nicholas Juarez,203,Smart Bulb,Electronics,3,289.12,2023-09-17,Maldives
+217,793,Louis Rodriguez,240,Smart Bulb,Electronics,5,85.78,2023-07-23,Bermuda
+218,704,Heather Allison,201,Air Conditioner,Home Appliances,5,658.44,2023-08-09,Mali
+219,673,Melvin Ray,213,Printer,Electronics,1,334.47,2023-12-28,Germany
+220,669,Omar Barker,267,Heater,Home Appliances,1,453.42,2023-08-18,Mayotte
+221,337,Kirk Flores,262,Smartphone,Electronics,3,23.16,2024-02-15,Benin
+222,594,Jennifer Vincent,287,Camera,Electronics,5,284.18,2023-12-27,United Kingdom
+223,359,Kathy Duncan,204,Smartphone,Electronics,4,938.17,2024-06-17,South Africa
+224,943,Jessica Marquez,259,Air Conditioner,Home Appliances,5,141.34,2023-07-26,Cayman Islands
+225,287,Sarah Herrera,252,Toaster,Home Appliances,3,961.07,2023-07-05,Norfolk Island
+226,123,Keith Johnson,231,Washing Machine,Home Appliances,4,344.94,2023-09-25,Cyprus
+227,515,Jessica Howard,253,Smartphone,Electronics,2,19.14,2023-08-23,Argentina
+228,684,Sandra Parrish,223,Printer,Electronics,4,410.78,2024-05-27,Heard Island and McDonald Islands
+229,468,Andrew Hensley,261,Blender,Home Appliances,5,851.29,2023-10-30,Latvia
+230,694,Stacy Neal,261,Toaster,Home Appliances,3,864.34,2023-08-02,Bangladesh
+231,208,Suzanne Ramsey,276,Router,Electronics,5,917.6,2024-01-29,Germany
+232,269,Zachary Clarke,236,Washing Machine,Home Appliances,5,580.69,2023-08-05,British Indian Ocean Territory (Chagos Archipelago)
+233,351,Cheryl Alvarado,282,Tablet,Electronics,2,623.83,2023-08-01,South Africa
+234,819,James Smith,201,Television,Electronics,1,648.23,2024-05-06,Kenya
+235,725,David Gallagher,230,Vacuum Cleaner,Home Appliances,1,935.99,2024-01-28,Angola
+236,387,Kevin Patterson,244,Toaster,Home Appliances,1,514.56,2023-10-24,Venezuela
+237,978,Dr. Luke Moore,252,Blender,Home Appliances,4,507.33,2024-02-25,Canada
+238,220,Shannon Stafford,269,Blender,Home Appliances,2,61.67,2024-04-07,Slovakia (Slovak Republic)
+239,749,Michael Mays,210,Vacuum Cleaner,Home Appliances,2,379.5,2023-12-26,Guernsey
+240,334,Daniel Cruz,243,Laptop,Electronics,5,175.76,2024-02-25,French Guiana
+241,830,Mr. Anthony Eaton,243,Smartwatch,Electronics,5,830.33,2023-10-14,Russian Federation
+242,386,Debbie White,283,Washing Machine,Home Appliances,5,229.73,2024-05-22,Bermuda
+243,444,Michael Patterson,242,Camera,Electronics,2,41.09,2024-05-04,Guadeloupe
+244,369,Vincent Gibson,271,Microwave,Home Appliances,3,446.96,2023-08-28,Bulgaria
+245,529,Travis Cruz,239,Air Conditioner,Home Appliances,5,655.98,2023-12-20,Saint Helena
+246,259,Todd Jenkins,251,Headphones,Electronics,5,238.3,2023-09-09,Bahamas
+247,537,Elizabeth Brown,209,Heater,Home Appliances,2,257.11,2023-12-04,Micronesia
+248,431,Lori Pacheco,239,Vacuum Cleaner,Home Appliances,1,622.39,2023-12-03,Australia
+249,212,Gail Daugherty,211,Headphones,Electronics,2,208.99,2023-08-31,Micronesia
+250,555,Michael Walker,215,Smartphone,Electronics,4,679.94,2024-05-20,Syrian Arab Republic
+251,494,John Tate,220,Router,Electronics,4,996.53,2024-01-21,Cote d'Ivoire
+252,193,Margaret Anderson,283,Vacuum Cleaner,Home Appliances,4,155.21,2023-10-01,United States of America
+253,135,Sarah Martin,269,Television,Electronics,1,330.88,2023-08-23,Martinique
+254,340,Steven Burke,259,Microwave,Home Appliances,4,514.83,2024-06-06,Turkmenistan
+255,906,Philip Hanna,226,Electric Kettle,Home Appliances,4,794.6,2023-07-01,Palestinian Territory
+256,743,Timothy Strickland,299,Smartwatch,Electronics,4,159.35,2024-01-11,Haiti
+257,879,David Carrillo,244,Router,Electronics,3,949.99,2024-05-04,Benin
+258,250,Nathan Soto,211,Printer,Electronics,2,106.51,2024-04-20,Peru
+259,513,Tara Higgins,209,Tablet,Electronics,5,906.88,2023-07-15,United Arab Emirates
+260,280,Gregory Melton,216,Tablet,Electronics,4,729.02,2024-03-12,Azerbaijan
+261,656,Isaiah Davidson,234,Heater,Home Appliances,3,136.69,2024-03-02,Holy See (Vatican City State)
+262,967,Jonathan Wise,261,Electric Kettle,Home Appliances,2,63.73,2024-06-02,Brazil
+263,876,Mason Fuentes,211,Washing Machine,Home Appliances,2,341.34,2024-05-25,Brazil
+264,340,Danielle Watkins,283,Coffee Maker,Home Appliances,3,668.35,2024-02-09,Swaziland
+265,368,Alexis Hogan,229,Electric Kettle,Home Appliances,5,693.44,2023-11-22,Antigua and Barbuda
+266,277,Colin Cunningham,298,Television,Electronics,2,831.99,2023-09-20,Korea
+267,145,Marco Barrett,256,Laptop,Electronics,1,992.21,2023-12-15,Somalia
+268,774,Carrie Nelson,242,Camera,Electronics,5,619.68,2024-06-22,Cape Verde
+269,344,Victor Lamb,298,Laptop,Electronics,3,60.46,2023-09-06,Bulgaria
+270,147,Julie Cruz,240,Headphones,Electronics,5,275.96,2023-11-18,Palestinian Territory
+271,903,Jeffrey Page,279,Router,Electronics,4,325.23,2024-03-18,Ukraine
+272,326,David Hall,276,Coffee Maker,Home Appliances,5,269.91,2023-08-23,Northern Mariana Islands
+273,164,Gabriela Johnson,278,Smartphone,Electronics,3,862.49,2023-10-23,Tanzania
+274,650,Nicole Gonzalez,284,Microwave,Home Appliances,4,728.42,2024-06-11,Grenada
+275,190,Krista Stanton,227,Toaster,Home Appliances,1,350.34,2024-02-11,Mayotte
+276,628,Michael Rose,265,Smartphone,Electronics,3,116.24,2023-08-06,Bahamas
+277,102,Andres Walters,249,Printer,Electronics,1,379.43,2024-03-12,Sudan
+278,865,Henry Mack,292,Headphones,Electronics,3,310.47,2024-01-23,Nicaragua
+279,431,Shelley Martin,288,Router,Electronics,3,957.47,2023-11-27,Trinidad and Tobago
+280,379,John Adkins,208,Coffee Maker,Home Appliances,5,344.21,2023-09-22,Russian Federation
+281,378,Mr. Michael Randall,259,Laptop,Electronics,2,625.51,2024-01-21,Lebanon
+282,646,Melinda Daugherty,258,Television,Electronics,4,531.86,2024-04-10,French Polynesia
+283,330,Gregory Brown,279,Blender,Home Appliances,3,84.71,2024-01-20,Saudi Arabia
+284,736,William Rivera,247,Smart Bulb,Electronics,4,238.0,2024-05-14,Turks and Caicos Islands
+285,432,Jackie Hanson,271,Camera,Electronics,5,412.2,2024-04-15,Iceland
+286,300,Andrea Morgan,254,Television,Electronics,3,600.78,2024-06-06,Gambia
+287,340,Jay Gray,230,Printer,Electronics,2,765.61,2023-07-10,United Arab Emirates
+288,247,Rachel Gonzales,293,Router,Electronics,3,209.39,2023-09-27,Monaco
+289,781,Jordan Wilson,233,Smartphone,Electronics,5,412.24,2023-09-08,Austria
+290,531,Daniel Branch,244,Washing Machine,Home Appliances,2,368.22,2024-02-21,Serbia
+291,114,John Bartlett,265,Smart Bulb,Electronics,1,734.38,2024-01-07,Barbados
+292,274,John Valdez,287,Coffee Maker,Home Appliances,2,480.55,2023-08-29,Guadeloupe
+293,643,Michael Chambers,234,Heater,Home Appliances,3,699.8,2023-10-17,Greece
+294,877,Brandon Ramos,256,Camera,Electronics,1,768.02,2023-10-08,Zimbabwe
+295,244,Alexander Smith,294,Printer,Electronics,1,599.63,2023-07-23,Guinea
+296,666,Robert Kelley,220,Router,Electronics,1,476.41,2023-10-06,Mali
+297,980,Jonathan Murphy,290,Coffee Maker,Home Appliances,5,853.46,2024-05-14,Morocco
+298,734,Jamie Taylor,230,Tablet,Electronics,4,94.99,2024-02-28,Venezuela
+299,614,Autumn Watkins,295,Smart Bulb,Electronics,5,224.49,2023-12-14,Cote d'Ivoire
+300,131,Jeffrey Richardson,287,Smart Bulb,Electronics,2,234.53,2024-04-29,Uzbekistan
+301,477,Steve Alvarez,255,Smartwatch,Electronics,3,127.62,2024-02-08,Finland
+302,947,Robert Bailey,282,Toaster,Home Appliances,5,371.86,2023-10-31,Guadeloupe
+303,664,Omar Wells,220,Washing Machine,Home Appliances,5,375.58,2024-05-04,South Georgia and the South Sandwich Islands
+304,595,Amy Cummings,288,Coffee Maker,Home Appliances,4,588.93,2024-01-15,Korea
+305,575,Ryan Kelley,200,Washing Machine,Home Appliances,2,563.64,2023-07-25,Fiji
+306,225,Stephen Henderson,298,Toaster,Home Appliances,3,678.83,2024-05-17,Netherlands Antilles
+307,605,Jeremy Ward,266,Vacuum Cleaner,Home Appliances,3,387.14,2023-11-17,Gabon
+308,102,David Thompson,281,Smartphone,Electronics,4,662.13,2023-10-21,Nepal
+309,872,Christopher Miles,275,Heater,Home Appliances,5,822.03,2024-06-17,Ethiopia
+310,720,Cameron Saunders,249,Camera,Electronics,1,746.66,2023-08-19,Sri Lanka
+311,441,Anthony Roberts,258,Headphones,Electronics,1,597.06,2024-03-18,Cayman Islands
+312,576,Shannon Hart,266,Router,Electronics,2,548.78,2023-08-15,Greece
+313,383,William Harris,296,Printer,Electronics,2,740.09,2024-03-07,Bulgaria
+314,248,Amanda Caldwell,226,Printer,Electronics,2,801.3,2024-01-02,Georgia
+315,461,Holly Fowler,206,Microwave,Home Appliances,2,604.55,2023-08-03,Panama
+316,764,Frank Middleton,252,Microwave,Home Appliances,4,162.64,2023-11-05,Brazil
+317,216,Daniel Miller,262,Microwave,Home Appliances,1,647.71,2024-06-23,Philippines
+318,824,Robert Wyatt,258,Smartphone,Electronics,5,859.1,2023-07-05,Libyan Arab Jamahiriya
+319,866,Mary Jenkins,260,Air Conditioner,Home Appliances,1,922.65,2024-01-31,Turkey
+320,263,Jessica Hernandez,245,Vacuum Cleaner,Home Appliances,5,349.07,2024-05-23,Guyana
+321,123,Joe Tran,267,Smartwatch,Electronics,4,941.03,2023-10-08,San Marino
+322,532,Maria Norton,237,Blender,Home Appliances,4,310.67,2024-02-07,Algeria
+323,920,Sheila Forbes,219,Tablet,Electronics,2,805.68,2024-05-03,Mayotte
+324,733,Taylor Sanford,212,Microwave,Home Appliances,1,40.52,2023-08-02,Tonga
+325,923,Elizabeth Palmer,234,Smartwatch,Electronics,5,906.4,2023-08-29,Faroe Islands
+326,353,Michael Baird,217,Coffee Maker,Home Appliances,4,486.98,2024-05-28,Nepal
+327,383,Fred White,243,Vacuum Cleaner,Home Appliances,5,439.42,2023-09-02,Philippines
+328,767,Lisa Long,207,Toaster,Home Appliances,3,98.37,2024-01-10,Korea
+329,675,Blake Harrison,254,Printer,Electronics,4,489.8,2023-11-26,Ukraine
+330,733,Kimberly Wilson,202,Refrigerator,Home Appliances,3,625.22,2023-09-22,British Virgin Islands
+331,335,Evelyn Allen,220,Air Conditioner,Home Appliances,2,485.47,2024-05-01,Jordan
+332,182,Lorraine Bennett,285,Heater,Home Appliances,5,427.69,2024-03-10,Congo
+333,720,Steven Stein,278,Printer,Electronics,4,767.94,2024-03-31,Kuwait
+334,106,James Douglas,277,Heater,Home Appliances,5,525.06,2023-08-21,Guadeloupe
+335,303,Raymond Vargas,208,Camera,Electronics,5,850.8,2024-06-04,Indonesia
+336,909,Gregory Smith,235,Microwave,Home Appliances,1,295.33,2023-12-25,Cambodia
+337,243,Mikayla Cunningham,259,Electric Kettle,Home Appliances,2,501.56,2024-02-27,Liberia
+338,380,Curtis Montgomery,279,Router,Electronics,1,345.28,2024-03-26,Hungary
+339,677,Kirsten Farmer,229,Washing Machine,Home Appliances,1,838.29,2024-06-21,Togo
+340,141,Johnny Jenkins,267,Tablet,Electronics,3,185.99,2023-11-14,Cape Verde
+341,456,Monique Williams,231,Washing Machine,Home Appliances,5,547.24,2024-04-05,Saint Martin
+342,331,Michael Roberts,297,Camera,Electronics,1,953.54,2024-04-29,Denmark
+343,265,Randy Roberts,252,Television,Electronics,1,682.73,2024-04-26,Spain
+344,633,Christopher Garcia,226,Headphones,Electronics,2,762.14,2023-10-04,France
+345,580,Henry Smith,262,Headphones,Electronics,4,593.95,2023-12-13,Cyprus
+346,683,Maria Hudson,246,Laptop,Electronics,5,532.77,2024-06-25,Indonesia
+347,188,Robert Santiago,294,Tablet,Electronics,1,728.81,2023-08-01,Ukraine
+348,919,Brandon Gomez,278,Headphones,Electronics,1,127.67,2023-11-21,Netherlands Antilles
+349,998,Victoria Mills,201,Refrigerator,Home Appliances,2,330.87,2024-04-04,Greenland
+350,786,Kevin Rose,264,Camera,Electronics,5,334.31,2023-11-15,Philippines
+351,733,Roger Mullins,208,Heater,Home Appliances,3,17.84,2024-02-26,Libyan Arab Jamahiriya
+352,146,Julia Cole,234,Blender,Home Appliances,1,589.96,2023-10-06,Malaysia
+353,669,Dr. Jordan Parker,269,Headphones,Electronics,3,300.03,2023-07-07,Oman
+354,595,Claire Adams,261,Smartwatch,Electronics,4,615.84,2024-04-15,Benin
+355,963,Mr. Billy Estes,235,Washing Machine,Home Appliances,1,326.69,2024-01-10,Malaysia
+356,213,Kelly Hernandez,290,Smartphone,Electronics,5,750.12,2024-03-25,Reunion
+357,700,Ann Ray,280,Refrigerator,Home Appliances,2,966.27,2023-12-14,Afghanistan
+358,434,Jacob Santos,266,Camera,Electronics,1,773.19,2023-09-27,Serbia
+359,203,Dave Robinson,264,Router,Electronics,1,808.96,2024-02-28,New Zealand
+360,978,Joshua Moore,280,Router,Electronics,2,934.93,2024-01-22,Holy See (Vatican City State)
+361,965,Mark White,216,Laptop,Electronics,3,14.66,2023-11-07,Bulgaria
+362,224,Alec Henson,297,Laptop,Electronics,3,748.85,2023-10-28,El Salvador
+363,142,Julie Scott,247,Microwave,Home Appliances,4,298.36,2023-09-18,Philippines
+364,240,Joshua Nelson,223,Camera,Electronics,2,426.28,2023-08-26,Brazil
+365,750,Melissa Hunt,293,Washing Machine,Home Appliances,5,342.88,2024-06-17,Palestinian Territory
+366,429,Danielle Mcgee,283,Refrigerator,Home Appliances,1,313.3,2023-08-30,Jersey
+367,472,Paul Murphy,216,Vacuum Cleaner,Home Appliances,4,679.78,2024-05-12,Congo
+368,774,Veronica Short,283,Microwave,Home Appliances,2,563.94,2023-07-25,Spain
+369,739,Vickie Bennett,250,Refrigerator,Home Appliances,5,459.45,2023-11-10,China
+370,653,Jesse Hall,296,Coffee Maker,Home Appliances,3,909.86,2023-07-11,Guatemala
+371,541,Brian Townsend,291,Refrigerator,Home Appliances,5,130.11,2024-04-28,Peru
+372,397,Nicholas Reyes,262,Washing Machine,Home Appliances,2,265.68,2023-11-27,Chile
+373,600,Paul Weaver,256,Smartwatch,Electronics,2,185.91,2024-01-15,Algeria
+374,825,Derrick Griffin,200,Smartphone,Electronics,2,587.47,2023-08-26,Namibia
+375,309,Kelly Espinoza,216,Toaster,Home Appliances,5,811.3,2023-06-30,Burundi
+376,721,Jennifer Kemp,249,Television,Electronics,4,46.44,2024-03-29,South Georgia and the South Sandwich Islands
+377,936,Sharon Jenkins,218,Blender,Home Appliances,4,433.56,2024-05-02,Haiti
+378,138,Katie Cortez,267,Microwave,Home Appliances,4,268.17,2024-01-21,Swaziland
+379,902,Kaitlin Beck,267,Coffee Maker,Home Appliances,3,277.49,2024-06-17,Belize
+380,650,Casey Becker,271,Smart Bulb,Electronics,5,556.79,2024-03-24,British Virgin Islands
+381,471,Aaron Ramirez,200,Laptop,Electronics,1,428.6,2024-04-11,Libyan Arab Jamahiriya
+382,990,Erin Jones,234,Tablet,Electronics,3,730.66,2024-02-11,Marshall Islands
+383,933,Stacy Ortega,293,Coffee Maker,Home Appliances,1,875.72,2023-12-19,Bouvet Island (Bouvetoya)
+384,312,Penny Day,285,Blender,Home Appliances,3,10.97,2024-04-07,Venezuela
+385,390,Brian Rojas,271,Toaster,Home Appliances,3,71.68,2023-12-21,Barbados
+386,653,Kimberly Noble,269,Smart Bulb,Electronics,5,215.12,2023-12-06,Finland
+387,125,Donna Bishop,267,Toaster,Home Appliances,1,261.44,2023-08-12,Jordan
+388,754,Tracy Moore,285,Headphones,Electronics,5,911.93,2023-11-11,Thailand
+389,324,Jennifer Smith,277,Heater,Home Appliances,3,965.39,2023-12-12,Turkmenistan
+390,136,Ryan Smith,278,Coffee Maker,Home Appliances,5,338.1,2023-08-11,Norfolk Island
+391,659,James Ware,284,Washing Machine,Home Appliances,4,919.16,2023-09-23,Syrian Arab Republic
+392,355,Brenda Price,236,Refrigerator,Home Appliances,1,987.26,2024-04-07,Ecuador
+393,551,Brittany James,220,Vacuum Cleaner,Home Appliances,3,860.34,2023-12-18,Cyprus
+394,601,Sheila Cooper,288,Microwave,Home Appliances,4,587.39,2023-11-12,Egypt
+395,105,Monica Clark,291,Toaster,Home Appliances,4,945.87,2023-09-09,Somalia
+396,718,Rachel Scott,221,Smart Bulb,Electronics,4,234.43,2024-03-27,India
+397,549,Richard Stevenson,284,Camera,Electronics,4,201.81,2024-04-20,Central African Republic
+398,358,Robert Rowe,270,Air Conditioner,Home Appliances,4,570.61,2023-07-21,Malawi
+399,941,Amanda Gray,218,Toaster,Home Appliances,1,197.87,2023-09-29,Liechtenstein
+400,472,Erin Johnson,240,Coffee Maker,Home Appliances,1,587.75,2023-10-18,Central African Republic
+401,125,Dylan Mccarty,271,Router,Electronics,3,146.01,2024-06-01,Dominica
+402,106,Donna Carter,207,Laptop,Electronics,2,104.14,2023-11-11,Saudi Arabia
+403,429,Sheila Dean,245,Blender,Home Appliances,5,481.58,2023-07-19,New Zealand
+404,948,Erin Kane,285,Refrigerator,Home Appliances,3,506.34,2023-10-19,Latvia
+405,632,Jamie Bruce,231,Camera,Electronics,5,105.97,2024-01-30,Morocco
+406,846,Alicia Johnson,204,Smartphone,Electronics,4,940.65,2024-05-20,New Zealand
+407,556,Austin White,262,Camera,Electronics,4,559.8,2023-10-07,United Kingdom
+408,460,William Smith,254,Smartphone,Electronics,2,229.03,2024-01-03,Russian Federation
+409,313,Ronald Bryant,202,Headphones,Electronics,5,254.68,2023-07-15,Saint Lucia
+410,316,Rebecca Wright,266,Air Conditioner,Home Appliances,5,153.64,2024-02-09,Costa Rica
+411,585,Kristina Davis,261,Blender,Home Appliances,3,641.92,2024-05-25,Cote d'Ivoire
+412,430,Michael Higgins,204,Coffee Maker,Home Appliances,1,863.67,2023-12-14,Samoa
+413,238,William Spencer,256,Vacuum Cleaner,Home Appliances,2,256.47,2023-08-04,Ghana
+414,678,Grace Hayes,279,Router,Electronics,1,491.83,2024-05-19,Barbados
+415,200,Michael Bowen,248,Heater,Home Appliances,5,767.44,2024-01-01,Antarctica (the territory South of 60 deg S)
+416,969,George House,230,Washing Machine,Home Appliances,3,136.04,2023-11-23,Guyana
+417,458,Eric Hernandez,238,Blender,Home Appliances,2,963.33,2024-06-24,Ireland
+418,209,Dr. Jessica Gordon,281,Smart Bulb,Electronics,5,235.58,2023-12-11,Zimbabwe
+419,810,Virginia Vega,249,Smartwatch,Electronics,3,949.34,2023-10-13,Equatorial Guinea
+420,627,Emily Marshall,263,Toaster,Home Appliances,4,969.38,2023-08-14,Zimbabwe
+421,171,Kimberly Whitaker,263,Blender,Home Appliances,5,16.66,2023-12-29,Andorra
+422,755,Anna Morton,293,Printer,Electronics,2,427.35,2024-06-04,Comoros
+423,500,Jessica Mclaughlin,280,Television,Electronics,2,123.13,2023-11-29,Benin
+424,479,Theresa Carson,267,Toaster,Home Appliances,2,275.81,2023-08-05,Belgium
+425,813,Julia White,233,Router,Electronics,2,324.38,2024-01-03,Belize
+426,941,Audrey Caldwell,219,Camera,Electronics,5,954.17,2023-07-03,Egypt
+427,353,Eric Garcia,200,Microwave,Home Appliances,5,420.41,2023-09-27,Marshall Islands
+428,695,Elizabeth Curtis,262,Router,Electronics,3,183.83,2023-10-31,Mauritius
+429,662,Rachel Mason,201,Camera,Electronics,3,337.1,2024-01-11,Portugal
+430,291,Scott Tate,293,Vacuum Cleaner,Home Appliances,4,541.16,2023-09-29,Saint Helena
+431,652,Janet Rivera,205,Tablet,Electronics,2,910.39,2023-07-01,Mayotte
+432,718,Adam Gomez,208,Printer,Electronics,1,869.36,2023-11-15,Dominica
+433,824,James Haney,223,Smartphone,Electronics,1,200.47,2023-10-03,Papua New Guinea
+434,158,James Byrd,265,Printer,Electronics,5,972.02,2023-11-04,French Southern Territories
+435,674,Michael Mora,293,Television,Electronics,1,702.25,2023-08-25,French Polynesia
+436,801,Melissa Baker,222,Microwave,Home Appliances,5,897.41,2024-04-05,Benin
+437,844,Justin Mcdonald,251,Heater,Home Appliances,1,346.81,2024-05-24,Saint Martin
+438,483,Alicia Barnes,216,Toaster,Home Appliances,5,217.83,2023-10-26,Belarus
+439,405,Anthony Roberts,263,Smartphone,Electronics,1,768.0,2023-12-24,Azerbaijan
+440,902,Stephen Parks,219,Vacuum Cleaner,Home Appliances,4,371.55,2024-05-24,Benin
+441,270,Candice Simmons,210,Smart Bulb,Electronics,4,882.69,2023-07-02,Cayman Islands
+442,648,Alicia Campbell,235,Smart Bulb,Electronics,2,573.99,2024-03-20,Mexico
+443,388,Erica Duncan,208,Router,Electronics,1,173.05,2024-01-06,Philippines
+444,836,Michelle Ayala,242,Heater,Home Appliances,3,350.56,2023-10-11,Chile
+445,897,Willie Ramirez,212,Smartwatch,Electronics,4,264.86,2024-05-13,British Virgin Islands
+446,103,Caleb Joseph,233,Vacuum Cleaner,Home Appliances,5,116.93,2024-05-09,Namibia
+447,550,Mrs. Julie Jones,271,Vacuum Cleaner,Home Appliances,4,172.24,2024-06-04,Mauritius
+448,261,Eric Rivera,213,Refrigerator,Home Appliances,2,856.88,2023-08-01,Ghana
+449,286,Tasha Wright,211,Printer,Electronics,3,638.23,2023-08-12,Bangladesh
+450,208,Bailey Dudley,217,Smart Bulb,Electronics,4,933.81,2024-04-25,Turks and Caicos Islands
+451,416,Heather Poole,231,Smart Bulb,Electronics,4,628.35,2024-04-20,Bulgaria
+452,325,Carl Daniel DDS,213,Smartwatch,Electronics,4,460.15,2024-04-10,Hong Kong
+453,670,Courtney Sanchez,285,Camera,Electronics,3,868.56,2024-05-30,Saint Vincent and the Grenadines
+454,541,Mrs. Donna Garcia,237,Air Conditioner,Home Appliances,5,807.71,2024-01-13,Armenia
+455,970,April Small,224,Router,Electronics,4,918.35,2023-10-03,Seychelles
+456,544,Angela Dean,221,Washing Machine,Home Appliances,5,722.12,2024-02-11,Benin
+457,630,Marcia Bowen,259,Smartwatch,Electronics,3,573.07,2024-02-03,Mali
+458,477,Melinda Sandoval,253,Headphones,Electronics,4,158.64,2023-11-17,Seychelles
+459,622,Michelle West,229,Television,Electronics,4,837.3,2024-04-08,Niue
+460,269,Julie Cox,252,Laptop,Electronics,2,500.59,2024-01-27,Togo
+461,216,Susan Nichols,238,Laptop,Electronics,5,992.81,2024-06-09,Lebanon
+462,512,Melissa Herring,297,Vacuum Cleaner,Home Appliances,4,684.91,2023-09-18,Italy
+463,765,Arthur Smith,283,Heater,Home Appliances,4,28.55,2023-10-08,Denmark
+464,152,David Cook,273,Toaster,Home Appliances,5,504.87,2023-07-19,Tokelau
+465,176,Joshua Johnson,284,Heater,Home Appliances,4,209.27,2023-10-22,Aruba
+466,635,Jenny Brock,239,Smart Bulb,Electronics,5,337.78,2023-09-24,Dominica
+467,137,Dr. Felicia Schultz,256,Microwave,Home Appliances,3,684.47,2023-09-12,Fiji
+468,626,Richard Wagner,201,Smartwatch,Electronics,5,615.4,2023-12-29,Indonesia
+469,650,Yolanda Riley,261,Washing Machine,Home Appliances,2,330.77,2023-07-14,Andorra
+470,586,Christopher Roberson,233,Smartwatch,Electronics,3,879.15,2024-06-17,Bolivia
+471,308,Jeffrey Perry,203,Camera,Electronics,1,467.28,2024-02-02,Jersey
+472,617,Belinda Blake,223,Tablet,Electronics,4,623.01,2023-09-01,Suriname
+473,753,Denise Gillespie,257,Smart Bulb,Electronics,1,636.97,2024-01-06,Philippines
+474,684,Eric Johnson,216,Coffee Maker,Home Appliances,5,194.32,2023-09-07,United States Virgin Islands
+475,480,Amy Massey,237,Washing Machine,Home Appliances,5,766.82,2024-04-02,Burundi
+476,701,Benjamin Garcia,249,Microwave,Home Appliances,1,533.65,2024-01-29,Yemen
+477,183,Diane Hicks,265,Smart Bulb,Electronics,2,431.31,2023-10-17,Barbados
+478,852,Patrick Davis,233,Smartwatch,Electronics,1,833.84,2024-01-23,Morocco
+479,670,Nancy Fisher,288,Blender,Home Appliances,2,888.37,2023-12-22,Tonga
+480,718,Daniel Alvarado,201,Router,Electronics,2,823.79,2023-07-16,Georgia
+481,935,Brittany Ritter,294,Smartphone,Electronics,4,834.3,2024-01-31,Israel
+482,441,Noah Mendez,247,Blender,Home Appliances,2,243.1,2023-09-25,Congo
+483,800,Margaret Ryan,205,Toaster,Home Appliances,3,822.04,2023-08-04,Afghanistan
+484,172,Cole Foster,240,Toaster,Home Appliances,3,213.24,2023-08-02,Central African Republic
+485,977,Amy Ingram,200,Headphones,Electronics,5,741.9,2023-08-13,Uzbekistan
+486,782,Laura Padilla,229,Router,Electronics,5,418.72,2023-07-22,Chad
+487,400,Christine Davis,230,Router,Electronics,5,482.09,2024-03-30,Paraguay
+488,252,Amy Martinez,256,Air Conditioner,Home Appliances,1,149.19,2023-11-12,Chad
+489,303,Jennifer Stein,294,Television,Electronics,1,927.57,2024-05-18,Algeria
+490,355,Allison Porter,255,Headphones,Electronics,5,733.69,2023-07-12,Antarctica (the territory South of 60 deg S)
+491,261,William Bryan,278,Microwave,Home Appliances,1,642.21,2024-05-01,South Africa
+492,325,Christie Thompson,205,Blender,Home Appliances,5,462.59,2023-12-24,Guadeloupe
+493,511,Linda Bauer,278,Laptop,Electronics,3,36.21,2023-12-30,Netherlands
+494,971,Jennifer Stewart,299,Smartphone,Electronics,4,887.21,2024-02-01,Kazakhstan
+495,207,Daniel Moore,232,Heater,Home Appliances,4,684.04,2024-05-02,Guyana
+496,174,Kelly Campbell,204,Refrigerator,Home Appliances,4,733.4,2023-07-10,Guernsey
+497,881,Gregory Morgan,291,Tablet,Electronics,2,681.47,2023-08-19,Niue
+498,395,Grace Torres,206,Coffee Maker,Home Appliances,5,348.09,2023-10-12,Estonia
+499,151,Zachary Rogers,252,Coffee Maker,Home Appliances,3,801.02,2024-05-27,Hungary
+500,206,David Lopez,202,Refrigerator,Home Appliances,5,60.95,2023-09-03,United Arab Emirates
+501,716,Kenneth Cobb,206,Blender,Home Appliances,5,168.79,2024-04-09,Australia
+502,286,Tammie Garrett,279,Camera,Electronics,1,838.25,2024-05-04,Guinea
+503,684,Timothy Butler DDS,297,Smartwatch,Electronics,2,634.58,2024-05-30,Jersey
+504,125,Stephanie Mckay,200,Tablet,Electronics,2,30.81,2023-10-14,Cook Islands
+505,257,Virginia Hendricks,273,Toaster,Home Appliances,4,287.19,2024-04-17,Uzbekistan
+506,308,Robert Reid,234,Smart Bulb,Electronics,4,450.56,2024-02-04,Brazil
+507,478,Garrett May,216,Washing Machine,Home Appliances,3,375.68,2023-11-09,Norfolk Island
+508,473,Michael Wang,292,Television,Electronics,2,643.67,2023-10-09,Uruguay
+509,840,Keith Harris,245,Blender,Home Appliances,2,207.1,2023-09-09,Ukraine
+510,146,Stacey Johnson,209,Smartwatch,Electronics,1,618.35,2024-05-12,China
+511,402,Bradley Green,225,Router,Electronics,2,839.78,2024-03-14,Barbados
+512,122,Jonathan Armstrong,216,Router,Electronics,2,690.86,2023-08-28,Tokelau
+513,660,Mary Day,280,Blender,Home Appliances,2,29.78,2023-09-05,United Arab Emirates
+514,121,Tyler Farmer,258,Router,Electronics,3,471.33,2023-12-09,Cape Verde
+515,505,Paul Bush,243,Air Conditioner,Home Appliances,2,134.53,2023-09-01,Mongolia
+516,722,Tracey Ross,206,Coffee Maker,Home Appliances,3,702.89,2023-09-12,Qatar
+517,323,Hector Miller,284,Washing Machine,Home Appliances,5,473.82,2023-07-15,Korea
+518,954,Danny Brown,276,Air Conditioner,Home Appliances,3,218.58,2023-10-11,Czech Republic
+519,608,Sally Holt,209,Television,Electronics,3,790.52,2024-02-09,Niue
+520,267,Pamela Soto,243,Smartwatch,Electronics,3,393.33,2023-12-10,Greece
+521,878,Terry Brown,215,Electric Kettle,Home Appliances,5,373.1,2024-03-27,Mongolia
+522,503,Alicia Anthony,215,Electric Kettle,Home Appliances,4,497.08,2023-08-17,India
+523,378,Melissa Morris MD,237,Router,Electronics,2,191.57,2024-03-08,Sri Lanka
+524,608,Lee Noble,241,Smart Bulb,Electronics,1,269.49,2023-09-11,Peru
+525,472,Shelley Carter,251,Smartphone,Electronics,2,400.51,2023-09-06,Myanmar
+526,971,Matthew Williams,248,Television,Electronics,5,326.61,2024-01-13,Aruba
+527,495,Mary Haynes,231,Smartwatch,Electronics,4,946.87,2024-04-05,Dominican Republic
+528,397,Leon Cross,252,Heater,Home Appliances,5,190.48,2024-01-30,Italy
+529,132,Keith Vasquez,298,Smartphone,Electronics,5,947.97,2023-09-18,Cuba
+530,516,Christina Larson,257,Tablet,Electronics,2,453.84,2023-11-13,Korea
+531,658,Bianca Shannon,234,Washing Machine,Home Appliances,4,903.18,2024-04-25,Jordan
+532,157,Carlos Salazar,241,Laptop,Electronics,4,190.65,2023-12-21,Isle of Man
+533,670,Brandi Paul,240,Router,Electronics,5,902.25,2024-04-22,Dominican Republic
+534,878,Veronica Andersen,291,Blender,Home Appliances,4,941.67,2024-05-23,Niue
+535,848,Michael Lee,221,Camera,Electronics,1,129.03,2024-01-16,Mayotte
+536,322,Jason Baker,257,Tablet,Electronics,1,26.96,2024-05-18,Moldova
+537,100,Alex Montgomery,236,Headphones,Electronics,5,451.44,2024-02-22,Faroe Islands
+538,455,Renee Patterson,295,Router,Electronics,5,864.9,2024-03-04,Namibia
+539,572,Bruce George,254,Microwave,Home Appliances,5,872.13,2023-12-19,Ethiopia
+540,562,Amanda Velez,209,Washing Machine,Home Appliances,4,788.7,2023-08-10,Finland
+541,994,Caroline Sherman,211,Washing Machine,Home Appliances,5,564.41,2023-09-23,Botswana
+542,624,James Mccullough,262,Tablet,Electronics,3,110.17,2023-09-26,Mauritania
+543,719,Dr. Marcus Gonzalez,200,Television,Electronics,3,787.67,2024-02-07,Heard Island and McDonald Islands
+544,152,Nicholas Reyes,231,Microwave,Home Appliances,4,204.62,2023-10-18,Suriname
+545,152,Denise Wilson,297,Headphones,Electronics,5,632.06,2024-01-09,Angola
+546,964,Brendan Chavez,213,Smartwatch,Electronics,5,216.41,2024-04-09,South Georgia and the South Sandwich Islands
+547,934,Mrs. Melanie Jackson,294,Tablet,Electronics,3,506.12,2023-12-10,Martinique
+548,394,Sarah Robinson,207,Heater,Home Appliances,4,302.82,2023-08-13,Djibouti
+549,900,Juan Wells,207,Printer,Electronics,3,361.63,2024-02-21,Philippines
+550,542,Fernando Long,288,Television,Electronics,3,552.32,2023-07-21,Austria
+551,793,Jennifer Stevens,214,Toaster,Home Appliances,2,637.64,2023-10-05,Gambia
+552,883,Katie Hickman,285,Microwave,Home Appliances,5,233.74,2023-12-16,Israel
+553,353,Mrs. Linda Brown,219,Coffee Maker,Home Appliances,1,691.42,2024-05-30,Spain
+554,734,Hector Larsen,272,Router,Electronics,2,359.54,2023-10-20,French Polynesia
+555,440,Maria Bryant,206,Microwave,Home Appliances,1,629.35,2023-08-08,French Guiana
+556,502,Adam Clark,213,Toaster,Home Appliances,5,99.66,2024-03-14,Sudan
+557,129,Rachel Rodriguez,239,Microwave,Home Appliances,5,357.91,2023-11-06,Togo
+558,229,Brianna Campbell,219,Microwave,Home Appliances,5,775.65,2023-11-11,Russian Federation
+559,923,Zachary Hodges,219,Vacuum Cleaner,Home Appliances,5,391.96,2023-10-01,Guyana
+560,489,Crystal Walker,256,Smart Bulb,Electronics,2,970.42,2024-02-16,Singapore
+561,308,Jeffrey Farrell,245,Refrigerator,Home Appliances,1,551.35,2024-05-30,Pakistan
+562,468,Diana Pruitt,282,Air Conditioner,Home Appliances,3,451.2,2023-09-19,Somalia
+563,352,Amy Williams,274,Router,Electronics,3,745.42,2023-09-21,Mali
+564,107,Jacqueline Hunt,238,Microwave,Home Appliances,2,814.79,2024-04-03,Luxembourg
+565,103,Karen Blair,273,Refrigerator,Home Appliances,5,33.11,2023-12-03,Lesotho
+566,932,Melissa Rogers,248,Printer,Electronics,3,257.53,2023-09-06,Honduras
+567,751,Christopher Krueger,292,Printer,Electronics,1,170.06,2023-12-24,Malaysia
+568,489,Matthew Martinez,246,Smartphone,Electronics,2,119.33,2023-08-27,Thailand
+569,707,Morgan Reilly,242,Television,Electronics,5,68.32,2023-08-07,Belgium
+570,579,Laura White,226,Smartwatch,Electronics,5,610.79,2024-04-02,Sierra Leone
+571,481,Kimberly Hill,296,Smartphone,Electronics,2,510.35,2024-04-25,Saudi Arabia
+572,698,Tracy Watson,268,Toaster,Home Appliances,4,651.37,2023-07-30,Yemen
+573,947,Robert Beck,281,Heater,Home Appliances,2,274.28,2024-05-23,Kuwait
+574,976,Nicholas Beasley,271,Smartwatch,Electronics,3,72.56,2024-02-19,United States of America
+575,571,Robert Griffin,257,Electric Kettle,Home Appliances,4,47.44,2024-03-21,Solomon Islands
+576,255,Jordan Rivera,263,Vacuum Cleaner,Home Appliances,4,476.42,2023-08-04,Cote d'Ivoire
+577,801,Michael Larson,251,Router,Electronics,4,401.05,2024-02-29,Japan
+578,804,Christopher Gross,298,Air Conditioner,Home Appliances,3,597.34,2023-07-02,Turks and Caicos Islands
+579,294,Paul Bates,247,Electric Kettle,Home Appliances,5,394.47,2023-09-24,Montenegro
+580,879,Samuel Middleton,207,Air Conditioner,Home Appliances,3,562.86,2024-03-30,South Africa
+581,958,Melissa Gibson,284,Washing Machine,Home Appliances,4,985.9,2023-12-31,South Georgia and the South Sandwich Islands
+582,393,Miguel Kim,248,Refrigerator,Home Appliances,4,149.11,2024-02-19,Maldives
+583,413,Amanda Stevens,209,Toaster,Home Appliances,4,301.51,2023-07-05,Congo
+584,140,Lucas Johnson,241,Headphones,Electronics,1,613.84,2024-03-23,Malawi
+585,460,Steven Meyers,297,Air Conditioner,Home Appliances,5,850.36,2024-02-14,Brazil
+586,790,Trevor Sparks,256,Blender,Home Appliances,5,454.11,2023-07-21,Palestinian Territory
+587,265,Charles Ortiz,231,Headphones,Electronics,3,252.87,2023-11-22,Lesotho
+588,500,Erica Preston,279,Toaster,Home Appliances,1,417.31,2023-08-13,Equatorial Guinea
+589,740,Wanda Smith,220,Television,Electronics,5,654.76,2024-03-10,Yemen
+590,325,Ian Park,214,Coffee Maker,Home Appliances,2,85.48,2023-06-28,Peru
+591,845,Martin Hernandez,278,Coffee Maker,Home Appliances,4,312.14,2023-11-28,Belize
+592,263,Monica Murphy,257,Coffee Maker,Home Appliances,2,89.07,2023-11-29,Heard Island and McDonald Islands
+593,537,Kara Miller,219,Coffee Maker,Home Appliances,2,175.44,2024-01-03,Mauritius
+594,633,Kayla Torres,259,Headphones,Electronics,1,30.88,2023-08-31,San Marino
+595,774,Kevin Coleman,244,Coffee Maker,Home Appliances,5,799.74,2024-03-13,Bahamas
+596,508,Bryan Warner,234,Blender,Home Appliances,4,472.85,2023-08-09,Guernsey
+597,538,Nicholas David,222,Headphones,Electronics,2,712.65,2023-09-27,Nepal
+598,906,Vanessa Payne,231,Blender,Home Appliances,1,798.31,2023-12-06,Papua New Guinea
+599,746,Kyle Webb,238,Router,Electronics,5,782.62,2024-01-25,Samoa
+600,997,Madison Michael,280,Smartwatch,Electronics,5,502.19,2023-10-23,United States Virgin Islands
+601,270,Jason Nelson,203,Electric Kettle,Home Appliances,5,980.8,2024-02-25,Pakistan
+602,963,Antonio Anderson,210,Printer,Electronics,4,861.68,2024-02-12,Cote d'Ivoire
+603,281,Joseph West,268,Laptop,Electronics,2,322.62,2023-12-22,Palestinian Territory
+604,720,James Fisher,262,Heater,Home Appliances,3,968.27,2023-08-22,Libyan Arab Jamahiriya
+605,689,Kristen Garcia,246,Washing Machine,Home Appliances,5,433.44,2023-11-09,Canada
+606,387,Andrew Wise IV,240,Electric Kettle,Home Appliances,2,850.98,2024-06-22,Puerto Rico
+607,499,Matthew Kelly,231,Toaster,Home Appliances,1,638.04,2024-02-17,Benin
+608,792,Mr. Tony Carpenter,208,Smart Bulb,Electronics,5,617.59,2023-10-03,Mali
+609,345,Gabrielle Crawford,223,Smart Bulb,Electronics,4,758.3,2024-03-09,Slovenia
+610,263,Michael Kennedy Jr.,239,Headphones,Electronics,3,967.71,2024-05-09,France
+611,675,Deborah Schwartz,271,Vacuum Cleaner,Home Appliances,1,559.2,2023-11-25,Serbia
+612,525,Shawn Owens,215,Television,Electronics,3,181.95,2024-06-13,Sao Tome and Principe
+613,643,Sheila Drake,222,Television,Electronics,3,264.38,2024-02-09,New Zealand
+614,215,Rebecca Park,227,Headphones,Electronics,5,602.92,2024-01-01,Singapore
+615,197,Kent Decker,259,Electric Kettle,Home Appliances,3,868.85,2023-09-29,Sudan
+616,831,Mary Cole,223,Television,Electronics,1,926.2,2024-03-05,Guernsey
+617,402,Rachel Young,297,Router,Electronics,2,982.46,2024-06-07,Cote d'Ivoire
+618,186,Jessica White,284,Air Conditioner,Home Appliances,2,368.59,2023-09-20,Malta
+619,981,Kimberly Young,274,Electric Kettle,Home Appliances,3,526.89,2024-02-28,Anguilla
+620,945,Sheryl Haynes,245,Blender,Home Appliances,2,758.65,2023-12-31,Nepal
+621,292,Lisa Moore,210,Toaster,Home Appliances,5,10.54,2023-11-05,Belarus
+622,127,Kristina Murray,246,Coffee Maker,Home Appliances,4,52.75,2023-12-10,Guyana
+623,842,Teresa Robinson MD,225,Router,Electronics,1,973.68,2024-03-19,Mauritania
+624,911,Marilyn Haynes,284,Printer,Electronics,5,846.49,2024-05-12,Saudi Arabia
+625,295,Charles Cain,241,Television,Electronics,1,634.15,2023-08-15,Austria
+626,531,Jonathon Martin,294,Smartwatch,Electronics,1,569.68,2024-04-09,Korea
+627,118,Christopher Cook,258,Heater,Home Appliances,5,650.11,2023-08-02,Cambodia
+628,351,Michelle Dean,268,Washing Machine,Home Appliances,3,786.77,2023-12-11,Cameroon
+629,135,Mark Martinez,252,Television,Electronics,2,951.75,2024-01-14,Heard Island and McDonald Islands
+630,739,Joshua Cline,296,Vacuum Cleaner,Home Appliances,2,634.85,2023-08-28,Oman
+631,166,Hailey Walker,282,Headphones,Electronics,5,358.56,2023-08-27,Canada
+632,523,Nancy Bruce,234,Microwave,Home Appliances,5,447.57,2024-02-11,Kuwait
+633,433,Tracy Smith,218,Tablet,Electronics,3,816.27,2024-02-28,Mauritania
+634,114,Robyn Mccoy,271,Heater,Home Appliances,5,672.31,2024-05-15,Antarctica (the territory South of 60 deg S)
+635,127,Donald Davis,284,Air Conditioner,Home Appliances,4,632.55,2024-06-08,Saint Barthelemy
+636,572,Kevin Young,215,Heater,Home Appliances,1,410.07,2024-03-26,Norfolk Island
+637,565,Michael Webb,217,Coffee Maker,Home Appliances,3,785.73,2024-06-18,Kyrgyz Republic
+638,930,Donald Miller,204,Headphones,Electronics,5,435.69,2023-10-24,Senegal
+639,315,Kristina Larsen,273,Printer,Electronics,4,23.58,2023-09-08,Palau
+640,830,Sandra Roberts,211,Air Conditioner,Home Appliances,5,636.51,2024-01-29,Australia
+641,400,Crystal Shields,275,Electric Kettle,Home Appliances,3,139.67,2024-04-17,Montenegro
+642,711,Mr. Thomas Harrison,238,Router,Electronics,4,614.18,2024-02-01,Syrian Arab Republic
+643,143,Mary Wright,206,Refrigerator,Home Appliances,2,864.31,2023-11-06,Singapore
+644,299,Jody Lowe,246,Smart Bulb,Electronics,2,114.43,2023-12-31,Albania
+645,126,Amanda Jones,295,Headphones,Electronics,1,208.14,2023-11-15,Kazakhstan
+646,409,Anna Collins,238,Microwave,Home Appliances,2,677.0,2024-06-06,Macao
+647,507,Jonathan Heath,218,Vacuum Cleaner,Home Appliances,4,676.78,2023-10-30,Japan
+648,504,Lucas Green,257,Microwave,Home Appliances,4,665.47,2023-07-21,Hungary
+649,270,Nicole Simmons,241,Smartphone,Electronics,5,940.97,2023-11-25,Heard Island and McDonald Islands
+650,515,Miranda Shaw,223,Television,Electronics,3,685.45,2024-01-10,Korea
+651,567,William Finley,260,Air Conditioner,Home Appliances,1,752.51,2023-06-27,Japan
+652,363,Michelle Griffin,241,Laptop,Electronics,5,461.92,2023-10-19,Iceland
+653,966,Donna Stokes DDS,298,Microwave,Home Appliances,2,17.18,2024-04-26,Belarus
+654,352,Michael Walsh,223,Washing Machine,Home Appliances,1,746.58,2023-12-21,Hong Kong
+655,269,Michele White,265,Printer,Electronics,4,620.64,2023-10-20,Northern Mariana Islands
+656,595,Richard Lynch,231,Router,Electronics,2,816.8,2023-08-06,Switzerland
+657,364,Tina Allen,253,Blender,Home Appliances,5,346.01,2023-10-08,Guinea
+658,201,Nancy Johns,264,Tablet,Electronics,3,20.32,2024-06-25,Uzbekistan
+659,132,Sydney Herrera,256,Television,Electronics,4,187.88,2023-11-24,Italy
+660,285,Rebecca Hamilton,283,Vacuum Cleaner,Home Appliances,2,433.93,2024-04-02,Finland
+661,349,Shawna Wilson,271,Microwave,Home Appliances,4,843.15,2024-06-19,Botswana
+662,897,Michael Anthony,251,Smart Bulb,Electronics,3,537.4,2023-07-09,Palestinian Territory
+663,540,Jose Moore,258,Heater,Home Appliances,2,806.75,2023-06-30,Liberia
+664,233,Anthony Gutierrez,264,Camera,Electronics,2,240.29,2023-08-29,New Zealand
+665,265,Joseph West,200,Smartphone,Electronics,3,994.85,2024-05-29,Iraq
+666,863,Margaret Webb,216,Router,Electronics,3,960.2,2023-12-24,Equatorial Guinea
+667,479,Samantha Rodriguez,233,Smartwatch,Electronics,4,301.2,2024-05-24,Denmark
+668,853,Craig Reed,229,Router,Electronics,3,301.32,2024-01-08,Singapore
+669,190,Alexander Rodriguez,216,Blender,Home Appliances,2,755.57,2023-07-28,Vanuatu
+670,728,Joshua Yates,267,Television,Electronics,3,793.84,2024-06-19,Switzerland
+671,563,Sharon Harrison,259,Laptop,Electronics,5,22.75,2024-06-10,Switzerland
+672,840,Caitlyn Alvarez,239,Blender,Home Appliances,1,895.32,2023-09-07,Georgia
+673,643,Michelle Russo,231,Smartwatch,Electronics,3,633.92,2023-12-03,Ireland
+674,848,Stacey Sampson,224,Smartwatch,Electronics,3,767.08,2023-07-22,New Caledonia
+675,503,Debra Howard,229,Smart Bulb,Electronics,2,390.61,2024-06-25,Bahrain
+676,369,Michael Woodard,283,Microwave,Home Appliances,1,425.36,2023-08-05,Taiwan
+677,193,Tracey Perez,212,Heater,Home Appliances,4,214.02,2023-12-29,United States Virgin Islands
+678,789,Kenneth Gray,238,Coffee Maker,Home Appliances,4,976.82,2023-11-27,Ukraine
+679,456,Cory Suarez,254,Microwave,Home Appliances,4,718.74,2023-10-20,New Zealand
+680,637,Paul Flores,279,Camera,Electronics,3,819.57,2024-02-12,Peru
+681,525,Katherine Tran,224,Vacuum Cleaner,Home Appliances,5,790.55,2023-09-17,Poland
+682,266,Jason Leonard,201,Television,Electronics,5,904.34,2023-06-26,Slovenia
+683,482,Miss Sharon Coleman MD,242,Headphones,Electronics,4,108.18,2024-01-26,El Salvador
+684,782,Jennifer Mclean,228,Smartwatch,Electronics,2,812.51,2024-03-19,Svalbard & Jan Mayen Islands
+685,925,Jeremy Carter,219,Smartwatch,Electronics,5,476.22,2023-11-04,Finland
+686,852,Jared Lee,235,Router,Electronics,2,466.0,2024-05-24,Finland
+687,590,Kristi Waller,295,Refrigerator,Home Appliances,2,366.37,2023-07-22,American Samoa
+688,868,Carlos Perez,279,Smartwatch,Electronics,3,478.52,2024-04-26,Philippines
+689,190,Michelle Gregory,201,Refrigerator,Home Appliances,5,927.38,2023-10-18,British Virgin Islands
+690,378,Jeffrey Mccall,204,Heater,Home Appliances,4,61.55,2024-01-23,Jersey
+691,702,Michelle Murphy,290,Microwave,Home Appliances,5,735.28,2024-04-23,Burundi
+692,636,Julian Adams,256,Coffee Maker,Home Appliances,1,941.22,2024-05-15,Italy
+693,278,Ashley Lopez,293,Air Conditioner,Home Appliances,5,939.85,2023-08-16,Palau
+694,293,Stacey Anderson,214,Vacuum Cleaner,Home Appliances,2,233.52,2024-01-27,Aruba
+695,727,Emily Wilson,251,Camera,Electronics,2,389.1,2024-02-29,Saint Lucia
+696,908,Danny Hernandez,218,Camera,Electronics,3,949.17,2023-11-12,New Caledonia
+697,146,Eduardo Moore,291,Coffee Maker,Home Appliances,5,318.47,2024-02-20,Faroe Islands
+698,666,Sherry Allen,284,Toaster,Home Appliances,1,457.69,2024-03-27,Slovenia
+699,604,Rebecca Huynh,279,Blender,Home Appliances,1,870.93,2023-07-31,Ecuador
+700,107,Margaret Gould,292,Electric Kettle,Home Appliances,3,581.37,2023-06-28,Vietnam
+701,388,Andrew Jones,280,Smartwatch,Electronics,3,24.59,2024-03-29,South Georgia and the South Sandwich Islands
+702,892,Courtney Williams MD,276,Tablet,Electronics,3,802.39,2023-11-06,Western Sahara
+703,488,Susan Wade,224,Blender,Home Appliances,2,714.9,2024-01-26,Slovenia
+704,279,Norman Salinas,287,Tablet,Electronics,2,935.53,2024-03-30,Senegal
+705,124,Joseph Johnson,269,Washing Machine,Home Appliances,3,560.81,2023-09-07,India
+706,871,Veronica Robinson,229,Vacuum Cleaner,Home Appliances,5,683.6,2023-10-25,Ghana
+707,967,David Thomas,291,Smartphone,Electronics,4,440.37,2023-11-17,Jordan
+708,762,James Valdez,249,Blender,Home Appliances,4,804.11,2023-11-07,Korea
+709,549,Rhonda Simmons,296,Headphones,Electronics,1,894.38,2023-10-07,Nicaragua
+710,143,Rachel Garcia,231,Washing Machine,Home Appliances,1,607.26,2024-01-24,Mexico
+711,633,Kristen Fowler,222,Coffee Maker,Home Appliances,5,475.99,2023-11-04,Guyana
+712,799,Brittany Farmer,212,Television,Electronics,5,178.04,2023-08-05,Spain
+713,780,Linda James,203,Tablet,Electronics,4,129.85,2024-02-11,Russian Federation
+714,908,Dean Hunter,212,Printer,Electronics,2,327.97,2024-03-30,Jordan
+715,468,Christine Ford MD,212,Router,Electronics,1,729.16,2024-05-06,Iran
+716,497,Tamara Fletcher,246,Vacuum Cleaner,Home Appliances,2,116.21,2023-12-06,Montserrat
+717,623,Lisa Jones,247,Smartwatch,Electronics,5,408.15,2023-08-03,Estonia
+718,911,Donald Wu,275,Smartphone,Electronics,2,47.24,2024-04-09,Netherlands Antilles
+719,341,Stephanie Knight,289,Coffee Maker,Home Appliances,4,797.43,2023-12-21,Ecuador
+720,945,Robert Tucker,292,Blender,Home Appliances,3,807.57,2024-03-07,Estonia
+721,223,Gerald Ramirez,202,Toaster,Home Appliances,3,631.01,2024-01-31,Honduras
+722,794,Joshua Schaefer,232,Toaster,Home Appliances,5,588.2,2024-03-09,Kiribati
+723,807,Lauren Ingram,207,Smartphone,Electronics,4,415.35,2024-04-04,Sri Lanka
+724,891,Brittany Williams,206,Refrigerator,Home Appliances,4,687.08,2024-04-23,Austria
+725,878,Paul Ramos,237,Refrigerator,Home Appliances,3,980.47,2024-05-02,Afghanistan
+726,510,James Wood,282,Washing Machine,Home Appliances,5,269.39,2024-05-11,Nigeria
+727,525,Jill Bush,287,Smart Bulb,Electronics,1,657.05,2023-12-08,Bosnia and Herzegovina
+728,586,Mary Hebert,217,Smart Bulb,Electronics,5,786.17,2024-02-22,Grenada
+729,625,Jessica Lawrence,236,Headphones,Electronics,4,729.78,2023-12-30,British Virgin Islands
+730,372,Thomas Campos,254,Smart Bulb,Electronics,4,640.73,2024-01-23,Taiwan
+731,581,Susan Nelson,268,Camera,Electronics,3,380.75,2024-04-05,Moldova
+732,707,Katie Adams,240,Laptop,Electronics,3,902.72,2023-09-22,Benin
+733,753,Jesus Young,239,Washing Machine,Home Appliances,5,501.07,2024-02-17,Morocco
+734,942,James Ward Jr.,226,Camera,Electronics,4,121.14,2023-10-14,Poland
+735,906,Christopher Morrow,260,Microwave,Home Appliances,1,804.56,2024-06-19,Gibraltar
+736,640,Erin King,208,Toaster,Home Appliances,1,589.21,2024-06-06,Suriname
+737,205,Angela Preston,279,Router,Electronics,5,248.07,2024-04-20,Portugal
+738,971,Christopher Ramirez,232,Blender,Home Appliances,3,478.31,2024-04-21,Luxembourg
+739,794,Craig Jackson,202,Camera,Electronics,1,61.77,2024-01-12,Tokelau
+740,959,Wesley Kelly,256,Camera,Electronics,5,939.31,2023-09-28,Slovakia (Slovak Republic)
+741,400,Joe Vasquez,239,Laptop,Electronics,4,673.38,2024-01-09,Kuwait
+742,826,Amy Small,285,Microwave,Home Appliances,4,413.03,2023-12-22,Tajikistan
+743,715,Ashley Jackson,279,Router,Electronics,3,538.48,2023-12-14,Afghanistan
+744,393,William Townsend,263,Coffee Maker,Home Appliances,3,295.03,2023-10-02,Chile
+745,775,Vicki Fleming,222,Blender,Home Appliances,4,380.18,2024-05-13,Latvia
+746,782,Ms. Kerry Lynch MD,222,Heater,Home Appliances,4,558.71,2023-10-10,Uruguay
+747,404,Dale Boyer,284,Tablet,Electronics,5,286.62,2024-06-21,Azerbaijan
+748,502,Kenneth Peters DDS,287,Coffee Maker,Home Appliances,5,520.61,2024-01-20,Congo
+749,810,Tammy White,265,Heater,Home Appliances,4,177.02,2024-06-25,Tokelau
+750,243,Jennifer Woods,289,Television,Electronics,3,602.27,2024-05-30,Guam
+751,258,Steven Edwards,243,Air Conditioner,Home Appliances,4,111.02,2024-02-19,Saudi Arabia
+752,877,Beth Smith,206,Coffee Maker,Home Appliances,3,682.52,2023-12-06,Moldova
+753,845,Donna Moore,285,Refrigerator,Home Appliances,4,963.2,2024-05-16,Gibraltar
+754,700,Alison Alvarado,250,Refrigerator,Home Appliances,3,261.92,2024-02-26,Norway
+755,285,Jessica Johnson,250,Washing Machine,Home Appliances,2,388.03,2023-10-15,China
+756,509,Stephanie Tran,279,Tablet,Electronics,2,166.75,2024-01-13,Belize
+757,201,Troy Brown,221,Laptop,Electronics,4,680.9,2024-03-20,United Arab Emirates
+758,699,Glenda Smith,280,Headphones,Electronics,1,326.02,2023-09-15,Botswana
+759,691,Brian Hart,246,Smart Bulb,Electronics,3,737.86,2023-07-30,United Kingdom
+760,559,Connie Smith,277,Router,Electronics,2,815.39,2023-10-09,Saint Pierre and Miquelon
+761,931,Kara Bryant,253,Television,Electronics,2,857.07,2024-03-10,Greenland
+762,483,Mrs. Felicia Walker DDS,289,Smartwatch,Electronics,1,173.38,2023-06-28,Cambodia
+763,512,Laurie Ballard,290,Camera,Electronics,5,720.14,2023-12-09,Libyan Arab Jamahiriya
+764,442,Jay Gordon,215,Vacuum Cleaner,Home Appliances,4,284.04,2023-11-03,Macao
+765,349,Latoya Garcia,207,Air Conditioner,Home Appliances,2,748.54,2024-06-01,Romania
+766,139,Jacob Salazar,297,Blender,Home Appliances,2,423.85,2023-09-23,Mozambique
+767,809,Jimmy Douglas,255,Smartphone,Electronics,2,409.17,2024-01-02,Saint Vincent and the Grenadines
+768,305,Thomas Hall,285,Smartwatch,Electronics,4,470.6,2024-01-09,Cocos (Keeling) Islands
+769,568,Evan Oneill,205,Smartwatch,Electronics,5,829.82,2024-01-30,Netherlands Antilles
+770,106,Peter Smith,240,Headphones,Electronics,4,902.09,2024-06-12,Congo
+771,332,Julie Smith,244,Camera,Electronics,2,11.67,2023-08-27,Hungary
+772,818,Frederick Dyer,237,Electric Kettle,Home Appliances,1,807.72,2024-05-26,Saint Barthelemy
+773,116,Ashley Rodriguez,236,Refrigerator,Home Appliances,3,762.22,2023-08-18,Ghana
+774,864,Kevin York,221,Vacuum Cleaner,Home Appliances,3,83.71,2023-09-13,Morocco
+775,593,Caitlin Campbell,205,Air Conditioner,Home Appliances,3,869.11,2023-11-28,Wallis and Futuna
+776,979,Meghan Collins,264,Laptop,Electronics,5,612.74,2023-11-07,Denmark
+777,213,Brandon Willis,231,Smartwatch,Electronics,1,106.83,2024-02-05,Tonga
+778,261,Debra Rodriguez,206,Air Conditioner,Home Appliances,5,438.83,2024-04-14,Andorra
+779,973,Colleen Adams,265,Blender,Home Appliances,1,783.78,2024-04-27,Lebanon
+780,426,Kevin Nichols,299,Headphones,Electronics,2,337.95,2023-09-08,Bosnia and Herzegovina
+781,668,Robert Williams,239,Smartphone,Electronics,4,423.61,2023-07-15,Iceland
+782,893,Juan Mcdonald,232,Washing Machine,Home Appliances,4,629.98,2023-12-06,Antigua and Barbuda
+783,106,Dominique Gibbs,207,Coffee Maker,Home Appliances,4,243.29,2023-10-26,Brunei Darussalam
+784,392,Angela Williams,264,Smartphone,Electronics,2,834.31,2024-01-25,Aruba
+785,380,Dominic Simmons,213,Television,Electronics,5,42.42,2024-03-27,Czech Republic
+786,455,Darrell Jackson,282,Coffee Maker,Home Appliances,4,838.64,2024-05-17,Tanzania
+787,608,Debbie Leonard,216,Heater,Home Appliances,1,598.59,2023-10-15,South Africa
+788,277,Jacob White,215,Television,Electronics,2,146.6,2023-07-13,Australia
+789,150,Amanda Coleman,205,Smartwatch,Electronics,2,995.67,2023-09-11,Niue
+790,478,Meagan Dennis,225,Toaster,Home Appliances,4,951.1,2024-03-15,Denmark
+791,914,James Hall,285,Printer,Electronics,1,578.73,2023-08-14,Congo
+792,481,Lisa Gonzalez,244,Washing Machine,Home Appliances,3,881.55,2023-12-04,Armenia
+793,840,Jennifer Obrien,285,Headphones,Electronics,5,368.89,2023-09-12,Liberia
+794,413,David White,272,Smart Bulb,Electronics,1,181.16,2024-01-01,Japan
+795,126,Charles Fisher,249,Camera,Electronics,3,870.96,2024-06-21,Greenland
+796,303,Leonard Moses DDS,294,Toaster,Home Appliances,3,573.22,2024-03-05,Sudan
+797,215,Wayne Hutchinson,277,Laptop,Electronics,2,776.03,2023-07-11,Saint Pierre and Miquelon
+798,572,Joseph Rose,200,Vacuum Cleaner,Home Appliances,1,154.59,2024-05-23,Slovakia (Slovak Republic)
+799,425,Karen Martinez,297,Smartwatch,Electronics,3,658.74,2024-03-05,Ireland
+800,780,Victoria Reyes,283,Air Conditioner,Home Appliances,5,759.53,2023-12-09,Samoa
+801,646,Edward Cardenas,288,Refrigerator,Home Appliances,1,951.37,2023-09-13,Cote d'Ivoire
+802,870,Jennifer Gonzalez,210,Air Conditioner,Home Appliances,4,332.46,2024-03-18,French Guiana
+803,770,Ashley Estrada,298,Laptop,Electronics,5,99.07,2023-07-21,Tanzania
+804,362,David Perez,275,Smartwatch,Electronics,3,327.93,2024-02-17,Germany
+805,687,Jessica Torres,261,Tablet,Electronics,2,375.59,2023-11-28,Namibia
+806,240,Brian Arnold,298,Coffee Maker,Home Appliances,5,874.0,2023-10-18,Bahamas
+807,387,Jeffery Smith,260,Smartphone,Electronics,5,193.93,2024-02-07,France
+808,886,Steve Ramos,284,Electric Kettle,Home Appliances,5,963.74,2024-02-27,Luxembourg
+809,390,William Smith,246,Electric Kettle,Home Appliances,2,363.41,2023-07-20,New Zealand
+810,747,Veronica Jackson,244,Router,Electronics,1,25.87,2024-03-13,Lesotho
+811,632,Richard Petersen,294,Headphones,Electronics,1,287.43,2023-09-24,Mali
+812,946,Harold Garcia,289,Coffee Maker,Home Appliances,5,341.78,2024-05-19,Albania
+813,759,Jason Rivas,266,Blender,Home Appliances,5,837.82,2023-10-15,El Salvador
+814,764,Gary Garcia,251,Washing Machine,Home Appliances,2,220.78,2023-10-13,Botswana
+815,430,Denise Clark,251,Television,Electronics,2,498.99,2023-07-24,Egypt
+816,791,Fred Rivers PhD,297,Tablet,Electronics,3,155.52,2024-01-18,Armenia
+817,134,Lori Turner,277,Tablet,Electronics,3,981.95,2024-06-10,Guinea-Bissau
+818,445,Paula Jenkins,209,Electric Kettle,Home Appliances,4,906.31,2024-04-06,Mauritania
+819,951,Amy Thomas,217,Router,Electronics,4,809.04,2024-03-10,Togo
+820,416,Debra Wagner,207,Refrigerator,Home Appliances,2,667.79,2023-12-17,Korea
+821,720,Richard Scott,257,Camera,Electronics,3,416.35,2024-06-25,Northern Mariana Islands
+822,251,Lindsey James,291,Heater,Home Appliances,2,731.64,2024-02-23,French Southern Territories
+823,623,Brendan Montoya,258,Smart Bulb,Electronics,1,485.15,2023-08-08,Serbia
+824,928,Andrea Anderson,281,Toaster,Home Appliances,3,302.38,2024-02-24,Morocco
+825,681,Brian Carlson,285,Laptop,Electronics,2,472.55,2024-04-19,El Salvador
+826,777,Amber Green,222,Router,Electronics,2,347.36,2023-07-06,Saint Lucia
+827,601,Heidi Gibbs,204,Microwave,Home Appliances,1,105.95,2024-02-19,Russian Federation
+828,352,Matthew Lee,247,Smartphone,Electronics,5,852.3,2024-03-23,Bulgaria
+829,512,Rhonda Ortega,218,Laptop,Electronics,2,667.9,2023-10-08,French Polynesia
+830,962,Kelly Frost,263,Tablet,Electronics,5,359.81,2024-03-13,Algeria
+831,603,Sean Hardin,279,Toaster,Home Appliances,2,555.63,2023-09-28,Seychelles
+832,789,Daniel Brown,235,Refrigerator,Home Appliances,1,540.72,2024-03-24,Bangladesh
+833,633,Christopher Wilson,231,Electric Kettle,Home Appliances,4,474.48,2023-11-15,Turkmenistan
+834,642,Crystal Wilson,253,Smartphone,Electronics,5,841.12,2024-06-10,Qatar
+835,880,Marvin Edwards,216,Heater,Home Appliances,5,743.29,2023-12-15,Christmas Island
+836,649,Amanda Murray,283,Television,Electronics,1,271.43,2023-11-27,Guatemala
+837,382,Michele Rodriguez,263,Smartwatch,Electronics,3,971.01,2023-08-05,Panama
+838,389,Mariah Horton,223,Coffee Maker,Home Appliances,3,601.31,2024-04-23,Venezuela
+839,153,Anna Coleman,220,Tablet,Electronics,3,911.25,2023-11-21,Bahamas
+840,659,William Moore,232,Smartwatch,Electronics,1,58.06,2023-10-10,Cayman Islands
+841,253,Christine Rollins,238,Washing Machine,Home Appliances,5,192.14,2023-12-06,Rwanda
+842,581,Alexandra Smith,288,Toaster,Home Appliances,5,162.87,2024-04-13,Niger
+843,872,Kathleen Hansen,201,Blender,Home Appliances,3,347.65,2023-07-15,Syrian Arab Republic
+844,410,James Dunn,262,Smartwatch,Electronics,4,117.7,2024-01-02,Benin
+845,373,Jon Parker,201,Refrigerator,Home Appliances,5,746.31,2023-07-11,Montserrat
+846,378,Carol Deleon,221,Vacuum Cleaner,Home Appliances,5,425.73,2024-02-28,Malawi
+847,706,Jose Salazar,222,Refrigerator,Home Appliances,5,646.6,2023-11-12,Kiribati
+848,417,Holly Weber,203,Washing Machine,Home Appliances,3,179.04,2024-01-24,Poland
+849,118,Rebecca Johnson,219,Washing Machine,Home Appliances,5,380.59,2024-02-03,Estonia
+850,468,Megan Clark,215,Smartwatch,Electronics,4,777.78,2023-09-30,Lebanon
+851,725,Logan Bradford,234,Television,Electronics,4,113.71,2024-04-28,Svalbard & Jan Mayen Islands
+852,921,Rebecca Brown,254,Camera,Electronics,2,838.71,2024-04-30,Malta
+853,223,Sandra Jackson,241,Electric Kettle,Home Appliances,2,550.67,2023-11-20,British Virgin Islands
+854,639,Tracy White,277,Washing Machine,Home Appliances,5,426.71,2024-05-26,Chad
+855,192,Heather Kelly,295,Television,Electronics,4,291.97,2024-05-12,Mozambique
+856,257,Leslie Petty,281,Refrigerator,Home Appliances,5,92.6,2024-01-13,Cyprus
+857,513,William Villanueva,226,Heater,Home Appliances,1,810.23,2023-08-29,Syrian Arab Republic
+858,248,Bonnie Rodriguez,217,Vacuum Cleaner,Home Appliances,4,730.97,2024-02-01,Mayotte
+859,689,Tammy Acosta MD,257,Refrigerator,Home Appliances,4,484.14,2024-02-13,Macedonia
+860,950,Linda Massey,201,Toaster,Home Appliances,4,410.1,2023-12-31,Ethiopia
+861,432,Tracey Russell,256,Smart Bulb,Electronics,3,944.27,2024-02-12,Kenya
+862,230,Brian Bennett,290,Printer,Electronics,1,405.75,2023-10-13,Malta
+863,125,Christopher Miller,234,Tablet,Electronics,4,263.23,2024-02-28,Saint Martin
+864,364,Eric Jensen,201,Router,Electronics,5,438.32,2023-12-22,South Africa
+865,163,Leslie Roberts,290,Router,Electronics,4,622.7,2024-06-09,Hungary
+866,260,Briana Clark,296,Printer,Electronics,1,339.07,2023-12-31,Latvia
+867,475,Tom Johnson,248,Vacuum Cleaner,Home Appliances,1,270.12,2024-03-27,Dominica
+868,246,Brandon Edwards,298,Microwave,Home Appliances,2,646.95,2024-05-02,Puerto Rico
+869,455,Jeremy Kirk,235,Router,Electronics,3,953.18,2023-10-11,Brunei Darussalam
+870,310,Yolanda Freeman,296,Headphones,Electronics,5,170.48,2023-11-06,Argentina
+871,127,Megan Keller,271,Laptop,Electronics,4,965.39,2023-07-14,Libyan Arab Jamahiriya
+872,671,Mckenzie Smith,222,Smartwatch,Electronics,3,291.94,2023-07-23,Korea
+873,985,Dr. Susan Deleon MD,265,Refrigerator,Home Appliances,4,695.24,2024-05-20,Timor-Leste
+874,313,Eric Buchanan,275,Smartwatch,Electronics,3,926.85,2024-03-12,Martinique
+875,691,Don Gay,226,Air Conditioner,Home Appliances,3,51.79,2024-06-06,British Virgin Islands
+876,788,Kathleen Brown,291,Headphones,Electronics,3,141.17,2023-11-28,Czech Republic
+877,733,Jesse Moore,245,Blender,Home Appliances,2,873.61,2024-02-11,Albania
+878,184,Angela Osborne,212,Smart Bulb,Electronics,3,641.2,2024-06-02,Ukraine
+879,780,Amy Thomas,228,Washing Machine,Home Appliances,1,11.81,2023-07-19,Cape Verde
+880,757,Paul Johnson,296,Headphones,Electronics,5,780.6,2024-01-22,Norway
+881,891,Warren Blake,272,Blender,Home Appliances,4,130.72,2023-10-04,Russian Federation
+882,375,Christopher Lewis,202,Refrigerator,Home Appliances,5,136.47,2023-08-24,Ireland
+883,146,John Miller,225,Blender,Home Appliances,4,532.73,2024-05-09,Mali
+884,282,Mary Moore,223,Washing Machine,Home Appliances,5,442.69,2024-02-29,Dominican Republic
+885,456,Samantha Hurst,271,Tablet,Electronics,2,665.98,2024-01-09,Philippines
+886,543,Christina Weaver,204,Smartphone,Electronics,3,792.97,2024-06-03,Western Sahara
+887,330,David Garner,275,Washing Machine,Home Appliances,4,437.97,2024-06-22,Maldives
+888,418,Dustin Salazar,213,Headphones,Electronics,4,167.83,2023-08-17,Hong Kong
+889,293,Joshua Rice,259,Printer,Electronics,4,862.72,2024-05-03,Tajikistan
+890,321,Lisa Wilson,246,Smart Bulb,Electronics,4,193.16,2024-04-09,France
+891,651,Peter Carter,252,Television,Electronics,5,942.21,2023-07-13,Solomon Islands
+892,305,Rebecca Schaefer,287,Electric Kettle,Home Appliances,2,109.45,2023-10-18,Belgium
+893,106,Lisa Mendez,260,Microwave,Home Appliances,3,446.52,2024-01-18,Philippines
+894,323,Desiree West,252,Coffee Maker,Home Appliances,1,299.3,2023-07-28,Cook Islands
+895,375,Cynthia Santiago,207,Camera,Electronics,4,906.01,2024-04-17,Saint Pierre and Miquelon
+896,592,James Gallagher,262,Router,Electronics,5,368.08,2023-10-15,Zimbabwe
+897,829,Anne Lozano,237,Toaster,Home Appliances,1,259.83,2023-11-08,Namibia
+898,637,Paula Elliott,273,Microwave,Home Appliances,1,233.17,2023-10-15,Qatar
+899,308,Maria Smith,203,Printer,Electronics,5,633.68,2023-08-11,Syrian Arab Republic
+900,715,Summer Dominguez,225,Tablet,Electronics,2,699.45,2024-01-15,Israel
+901,834,Linda Simpson,286,Coffee Maker,Home Appliances,5,820.84,2023-07-01,Seychelles
+902,393,Rhonda Espinoza,261,Headphones,Electronics,2,625.55,2023-10-10,Eritrea
+903,201,Mary Wilson,229,Heater,Home Appliances,4,603.52,2023-09-30,Saint Vincent and the Grenadines
+904,866,Dawn Fox,208,Smartwatch,Electronics,5,783.15,2024-02-28,Mexico
+905,600,Amber Fernandez,232,Refrigerator,Home Appliances,2,994.0,2024-04-08,Samoa
+906,335,Maria Murray,259,Tablet,Electronics,1,185.39,2023-07-23,Albania
+907,515,William Barron,250,Air Conditioner,Home Appliances,5,500.6,2023-11-30,Greenland
+908,493,Mary Higgins,235,Washing Machine,Home Appliances,1,476.49,2023-08-20,Seychelles
+909,707,Matthew Webb,248,Tablet,Electronics,3,720.02,2024-06-06,Djibouti
+910,312,Jessica Murray,280,Refrigerator,Home Appliances,5,470.86,2023-12-24,Cape Verde
+911,293,Kelly Obrien,299,Tablet,Electronics,1,979.25,2024-05-16,Aruba
+912,206,Sandra Hall,221,Smartphone,Electronics,5,630.25,2023-10-23,Isle of Man
+913,777,Juan Holt,249,Coffee Maker,Home Appliances,3,919.52,2024-05-13,Belarus
+914,988,Scott Smith,294,Electric Kettle,Home Appliances,2,177.54,2023-10-07,Mongolia
+915,790,Michael Hampton,298,Laptop,Electronics,3,220.53,2024-06-08,Swaziland
+916,455,Juan Brown,210,Coffee Maker,Home Appliances,3,868.77,2024-04-13,South Georgia and the South Sandwich Islands
+917,718,Valerie Perry,211,Headphones,Electronics,4,796.31,2023-10-11,Madagascar
+918,205,Sally Sullivan,211,Electric Kettle,Home Appliances,5,974.1,2023-11-27,Reunion
+919,656,Claudia Calhoun,278,Electric Kettle,Home Appliances,3,949.25,2024-02-11,Kiribati
+920,996,Christopher Clark,208,Camera,Electronics,5,924.65,2023-09-06,Armenia
+921,936,Shane Walters,253,Coffee Maker,Home Appliances,5,532.92,2024-02-02,Swaziland
+922,779,Nicole Stevens,227,Toaster,Home Appliances,4,741.23,2024-06-03,Holy See (Vatican City State)
+923,756,Christine Clark,229,Router,Electronics,3,547.66,2024-05-11,Kyrgyz Republic
+924,491,Micheal Johnson,265,Air Conditioner,Home Appliances,2,184.45,2023-12-30,Mauritania
+925,350,Joshua Montgomery,234,Blender,Home Appliances,1,560.44,2024-04-02,Micronesia
+926,425,Shannon Stevens,263,Refrigerator,Home Appliances,2,855.2,2023-12-30,Moldova
+927,319,Mr. Carl Wilson Jr.,242,Router,Electronics,4,740.59,2024-02-24,Hungary
+928,170,Ronald Hernandez,200,Laptop,Electronics,4,927.6,2024-02-15,Holy See (Vatican City State)
+929,816,Mrs. Natalie Payne,293,Television,Electronics,1,449.01,2024-03-23,Trinidad and Tobago
+930,346,Michael Dunn,275,Electric Kettle,Home Appliances,5,226.59,2023-09-15,Hong Kong
+931,974,Shawn Smith,210,Heater,Home Appliances,3,161.78,2023-07-11,Botswana
+932,926,Jordan Jenkins,291,Air Conditioner,Home Appliances,3,727.67,2023-11-14,Belize
+933,407,Paul Hudson,295,Tablet,Electronics,1,522.86,2023-10-13,United States Minor Outlying Islands
+934,365,Christy Duran,245,Laptop,Electronics,2,249.78,2024-01-05,Slovenia
+935,867,Ronald Schroeder,206,Toaster,Home Appliances,1,652.12,2023-08-18,Cook Islands
+936,825,Amanda Riley,260,Blender,Home Appliances,3,782.09,2023-08-17,Uganda
+937,131,Carolyn Green,252,Heater,Home Appliances,1,393.28,2024-04-16,Honduras
+938,724,Cameron Henry,285,Coffee Maker,Home Appliances,3,764.8,2023-08-06,Oman
+939,568,Courtney Garcia,273,Microwave,Home Appliances,2,355.31,2024-06-22,Philippines
+940,979,Megan Collins,250,Printer,Electronics,2,53.32,2023-08-22,Timor-Leste
+941,488,Jacqueline Garcia,247,Heater,Home Appliances,4,823.05,2023-08-10,Serbia
+942,204,Allison Chavez,270,Coffee Maker,Home Appliances,4,720.86,2023-10-19,Malaysia
+943,304,William Jackson,238,Washing Machine,Home Appliances,3,446.94,2024-06-01,Bolivia
+944,809,Ann Watts,218,Toaster,Home Appliances,3,710.05,2023-08-07,Greenland
+945,941,Noah Mendoza,201,Laptop,Electronics,1,50.32,2023-11-05,Senegal
+946,577,Christopher Collins,294,Laptop,Electronics,4,229.4,2024-06-20,Mauritania
+947,286,Janet Hall,279,Air Conditioner,Home Appliances,4,281.19,2024-06-20,Saint Helena
+948,192,Brendan Arnold,211,Microwave,Home Appliances,5,265.12,2023-09-23,Bhutan
+949,643,Phillip Scott MD,252,Router,Electronics,2,643.96,2023-11-17,Belgium
+950,903,Heidi Lopez,239,Microwave,Home Appliances,5,232.17,2024-01-14,Grenada
+951,342,Joseph Jones,276,Camera,Electronics,2,176.31,2024-02-28,Ghana
+952,694,Paul Munoz,253,Toaster,Home Appliances,1,233.1,2024-06-25,Australia
+953,432,Stacey Pruitt,276,Toaster,Home Appliances,2,657.64,2024-05-28,Saudi Arabia
+954,173,Matthew Stewart,299,Laptop,Electronics,3,545.37,2024-02-25,Djibouti
+955,977,John Donaldson,251,Tablet,Electronics,2,159.29,2023-07-14,Costa Rica
+956,861,Teresa Wright,264,Smartwatch,Electronics,1,147.8,2024-02-22,Lebanon
+957,955,Carol Murphy,294,Blender,Home Appliances,5,360.12,2023-11-25,Tajikistan
+958,906,Lynn Collins,230,Smart Bulb,Electronics,4,444.08,2023-06-28,Israel
+959,954,Natasha Ray,245,Electric Kettle,Home Appliances,4,437.56,2024-02-16,Slovenia
+960,268,Robin Torres,262,Heater,Home Appliances,3,316.72,2023-11-23,Czech Republic
+961,138,Mr. Joshua Mcdowell DVM,229,Tablet,Electronics,2,805.24,2024-02-07,Lithuania
+962,760,Kelly Bates,242,Blender,Home Appliances,1,383.42,2023-09-05,Niue
+963,419,Michelle Hudson MD,241,Electric Kettle,Home Appliances,2,624.27,2023-10-28,Haiti
+964,778,Daniel Cannon,205,Camera,Electronics,2,590.78,2024-05-27,Cambodia
+965,799,Jasmin Wright,235,Air Conditioner,Home Appliances,5,836.06,2024-04-24,Zambia
+966,330,Melissa Hansen,209,Refrigerator,Home Appliances,5,732.19,2023-10-19,Brunei Darussalam
+967,161,Shirley Deleon,205,Vacuum Cleaner,Home Appliances,5,900.01,2024-05-20,Taiwan
+968,327,Jessica Green,262,Router,Electronics,2,615.77,2023-09-12,Estonia
+969,186,Mr. Michael Hansen,247,Blender,Home Appliances,3,941.06,2023-09-01,Puerto Rico
+970,606,Dr. Larry Martinez,283,Smartwatch,Electronics,5,934.61,2024-02-20,Samoa
+971,797,Amy Bennett,291,Television,Electronics,3,632.4,2023-11-25,Zambia
+972,652,Michael Guerrero,274,Coffee Maker,Home Appliances,1,626.12,2024-03-01,Martinique
+973,494,Heather Gibson,241,Tablet,Electronics,3,132.44,2023-07-04,Mexico
+974,303,Mr. Corey Good,220,Microwave,Home Appliances,4,381.22,2024-05-25,Yemen
+975,920,Gregory Hill,220,Microwave,Home Appliances,1,164.08,2023-12-15,Spain
+976,429,Susan Smith,293,Laptop,Electronics,2,608.0,2023-09-24,Peru
+977,429,Shannon Schneider,200,Router,Electronics,3,863.22,2023-09-15,Luxembourg
+978,449,Steven Knight,207,Router,Electronics,3,704.29,2023-09-12,Swaziland
+979,853,Michelle Townsend,286,Laptop,Electronics,2,788.67,2023-11-30,United States of America
+980,264,Stacy Ramirez,279,Smartwatch,Electronics,4,284.38,2023-08-19,Mayotte
+981,329,Kari Shannon,245,Blender,Home Appliances,2,358.76,2023-10-11,Hong Kong
+982,730,Dustin Espinoza,235,Toaster,Home Appliances,2,566.63,2023-07-13,Heard Island and McDonald Islands
+983,370,Mr. Andrew Holland,285,Vacuum Cleaner,Home Appliances,2,18.5,2023-12-25,Togo
+984,523,Kayla Manning,263,Laptop,Electronics,3,724.84,2023-12-14,Tajikistan
+985,529,Edward Ortiz,242,Air Conditioner,Home Appliances,5,289.13,2024-05-29,Zimbabwe
+986,156,Daniel Wu,259,Refrigerator,Home Appliances,4,928.88,2023-12-04,Vietnam
+987,781,Brandon Perez,254,Blender,Home Appliances,3,304.3,2023-12-18,Iran
+988,413,Susan Shaw,246,Camera,Electronics,1,253.46,2024-04-20,Sudan
+989,954,Timothy Reyes,230,Printer,Electronics,4,305.97,2023-07-25,Serbia
+990,770,Mrs. Amber Freeman,285,Router,Electronics,1,591.64,2024-01-30,Greenland
+991,152,Terrence Burton,215,Blender,Home Appliances,5,162.69,2024-02-15,Burundi
+992,115,Gregg Henry,248,Television,Electronics,5,975.06,2024-05-30,Estonia
+993,241,Gregory Graham,271,Electric Kettle,Home Appliances,2,338.21,2024-06-18,Bolivia
+994,162,Maria Waters,277,Air Conditioner,Home Appliances,5,10.08,2023-12-31,British Virgin Islands
+995,780,Jessica Elliott,270,Television,Electronics,2,931.07,2024-04-20,Guinea-Bissau
+996,710,Adrian Wilson,217,Coffee Maker,Home Appliances,2,737.3,2024-01-29,Monaco
+997,982,George Romero,229,Refrigerator,Home Appliances,2,869.8,2024-06-10,French Guiana
+998,884,Joseph Weaver,239,Smartwatch,Electronics,4,77.49,2024-01-20,Montserrat
+999,538,Donna Smith,205,Microwave,Home Appliances,5,864.78,2023-07-25,Kyrgyz Republic
+1000,209,Angel Jenkins,250,Microwave,Home Appliances,2,473.01,2023-07-02,Saint Helena
