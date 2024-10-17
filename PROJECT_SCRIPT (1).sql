@@ -1,29 +1,45 @@
+--creating a database for the project
 create database pro;
 use pro;
+
+--having a look of the data
+    
 select* from purchase;
+
 SELECT DISTINCT customername
 FROM purchase;
+
+--Creating a temporary table to assign unique customerid to customers
 CREATE TEMPORARY TABLE temp_unique_customer (
     unique_customer_id INT AUTO_INCREMENT PRIMARY KEY,
     customer_name VARCHAR(255));
+
+--inserting all distinct names to temporary table
     
 INSERT INTO temp_unique_customers (customer_name)
 SELECT DISTINCT customername
 FROM purchase;
 
+##Adding a new column for unique id's   '
+
+
 ALTER TABLE purchase
 ADD COLUMN unique_customer_id INT;
 
-set sql_safe_updates=0;
+set sql_safe_updates=0; ##to update the table
+
+assigning the unique id to customers in purchase table
 UPDATE purchase p
 JOIN temp_unique_customers uc
  ON p.customername = uc.customer_name                            
 SET p.unique_customer_id = uc.unique_customer_id;
 
-DROP TEMPORARY TABLE temp_unique_customers;
+DROP TEMPORARY TABLE temp_unique_customers; --dropping the temporary table it doesn't needed any more  '
+
 
 select *from purchase order by customername;
-
+##checking the table for unique ids
+    
 SELECT customername,unique_customer_id, COUNT(*) AS name_count
 FROM purchase
 GROUP BY customername,2
@@ -75,6 +91,7 @@ set productid=productid + 200;
 update purchase
 set customerid= customerid + 5000;
 
+##creating different tables for products and customers  
 
 create table products (
 productid int primary key,
@@ -109,11 +126,13 @@ DROP COLUMN productname,
 DROP COLUMN productcategory,
 DROP COLUMN country;
 
-use pro;
+
 
 select* from purchase;
 select * from customers;
 select * from products;
+
+--Analyzing the data and getting insights
 
 select customername,productname,purchaseprice
  from purchase p
@@ -133,13 +152,13 @@ select customername,productname,purchaseprice
  order by 2 desc
  limit 10;
  
- select Country,round(sum(purchaseprice*purchasequantity),2) as Total_revanue
- from customers c
- join purchase p on
- c.customerid = p.customerid
- group by country
- order by 2 asc
- limit 10;
+ -- select Country,round(sum(purchaseprice*purchasequantity),2) as Total_revanue
+ -- from customers c
+ -- join purchase p on
+ -- c.customerid = p.customerid
+ -- group by country
+ -- order by 2 asc
+ -- limit 10;
  
  select p.productid,productname,round(sum(purchaseprice*purchasequantity),2)
  from products p join purchase pc on p.productid=pc.productid
@@ -148,7 +167,10 @@ select customername,productname,purchaseprice
  
  use pro;
  
-select* from purchase p join customers c on p.customerid=c.customerid join products pd on p.productid = pd.productid order by p.productid;
+select* from purchase p 
+    join customers c on p.customerid=c.customerid 
+    join products pd on p.productid = pd.productid
+    order by p.productid;
  
  
  with cte as (SELECT 
